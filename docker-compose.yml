@@ -3,5 +3,5 @@ services:
     build: .
     container_name: productos-buscador
     ports:
-      - "7071:80"
+      - "7002:80"
     restart: unless-stopped
