@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SALE · Catálogo de productos</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="toolbar" aria-label="Buscador">
+        <div>
+          <p class="eyebrow">Patagonia · SALE</p>
+          <h1>Catálogo SALE</h1>
+          <p class="intro">Buscá por código, nombre o color. Los precios y descuentos corresponden al listado SALE.</p>
+        </div>
+        <div class="toolbar-actions">
+          <a class="stock-button" href="http://patagonia.serveftp.com:8085/" target="_blank" rel="noopener noreferrer">VER STOCK</a>
+          <label class="search">
+            <span>Buscar</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Ej.: 84675, parka o BLK" autofocus />
+          </label>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Filtros">
+        <div>
+          <p class="filter-title">% De Descuento SALE</p>
+          <div id="discounts" class="discounts" aria-label="Porcentaje de descuento SALE"></div>
+        </div>
+      </section>
+
+      <section class="summary" aria-live="polite">
+        <strong id="resultCount">0</strong>
+        <span id="resultLabel">productos encontrados</span>
+      </section>
+
+      <section id="results" class="grid" aria-label="Resultados"></section>
+    </main>
+
+    <template id="productCard">
+      <article class="card">
+        <div class="photo"><span class="discount-badge"></span></div>
+        <div class="content">
+          <p class="code"></p>
+          <h2></h2>
+          <p class="prices"><del class="retail-price"></del><strong class="sale-price"></strong></p>
+          <dl>
+            <div>
+              <dt>Código</dt>
+              <dd class="base-code"></dd>
+            </div>
+            <div>
+              <dt>Color</dt>
+              <dd class="color"></dd>
+            </div>
+          </dl>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
