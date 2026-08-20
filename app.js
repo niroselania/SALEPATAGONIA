@@ -4,9 +4,12 @@ const count = document.querySelector("#resultCount");
 const resultLabel = document.querySelector("#resultLabel");
 const template = document.querySelector("#productCard");
 const discounts = document.querySelector("#discounts");
+const sortSelect = document.querySelector("#sortSelect");
+const clearFilters = document.querySelector("#clearFilters");
 
 let products = [];
 let activeDiscount = "Todas";
+let activeSort = "code";
 
 const normalize = (value) =>
   value
@@ -48,9 +51,9 @@ function render(items) {
       img.alt = product.name;
       img.loading = "lazy";
       photo.append(img);
+      node.querySelector(".photo-placeholder").hidden = true;
     } else {
       photo.classList.add("missing");
-      photo.append(document.createTextNode("Sin foto válida"));
     }
 
     node.querySelector(".discount-badge").textContent = formatDiscount(product.discount);
@@ -71,20 +74,37 @@ function filterProducts() {
     const matchesDiscount = activeDiscount === "Todas" || product.discount === activeDiscount;
     return matchesQuery && matchesDiscount;
   });
-  render(filtered);
+  render(sortProducts(filtered));
+}
+
+function sortProducts(items) {
+  return [...items].sort((a, b) => {
+    if (activeSort === "discount") return b.discount - a.discount || a.code.localeCompare(b.code);
+    if (activeSort === "salePrice") return a.salePrice - b.salePrice || a.code.localeCompare(b.code);
+    return a.code.localeCompare(b.code);
+  });
+}
+
+function updateDiscountButtons() {
+  for (const chip of discounts.children) {
+    chip.setAttribute("aria-pressed", chip.dataset.discount === String(activeDiscount));
+  }
 }
 
 function buildDiscountFilters() {
-  const values = ["Todas", ...new Set(products.map((product) => product.discount).sort((a, b) => a - b))];
+  const counts = new Map();
+  for (const product of products) counts.set(product.discount, (counts.get(product.discount) || 0) + 1);
+  const values = ["Todas", ...[...counts.keys()].filter((value) => value > 0).sort((a, b) => a - b)];
   for (const value of values) {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "chip";
-    button.textContent = value === "Todas" ? "Todos" : formatDiscount(value);
+    button.dataset.discount = String(value);
+    button.textContent = value === "Todas" ? `Todos (${products.length})` : `${formatDiscount(value)} (${counts.get(value)})`;
     button.setAttribute("aria-pressed", value === activeDiscount);
     button.addEventListener("click", () => {
       activeDiscount = value;
-      for (const chip of discounts.children) chip.setAttribute("aria-pressed", chip.textContent === button.textContent);
+      updateDiscountButtons();
       filterProducts();
     });
     discounts.append(button);
@@ -96,8 +116,21 @@ fetch("products.json")
   .then((data) => {
     products = data.sort((a, b) => a.code.localeCompare(b.code));
     buildDiscountFilters();
-    render(products);
+    filterProducts();
     input.addEventListener("input", filterProducts);
+    sortSelect.addEventListener("change", () => {
+      activeSort = sortSelect.value;
+      filterProducts();
+    });
+    clearFilters.addEventListener("click", () => {
+      input.value = "";
+      activeDiscount = "Todas";
+      activeSort = "code";
+      sortSelect.value = activeSort;
+      updateDiscountButtons();
+      filterProducts();
+      input.focus();
+    });
   })
   .catch(() => {
     results.innerHTML = '<p class="empty">No se pudo cargar products.json.</p>';

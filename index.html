@@ -20,14 +20,23 @@
             <span>Buscar</span>
             <input id="searchInput" type="search" autocomplete="off" placeholder="Ej.: 84675, parka o BLK" autofocus />
           </label>
+          <label class="sort">
+            <span>Ordenar por</span>
+            <select id="sortSelect">
+              <option value="code">Código A–Z</option>
+              <option value="discount">Mayor descuento</option>
+              <option value="salePrice">Menor precio SALE</option>
+            </select>
+          </label>
         </div>
       </section>
 
       <section class="controls" aria-label="Filtros">
-        <div>
+        <div class="discount-control">
           <p class="filter-title">% De Descuento SALE</p>
           <div id="discounts" class="discounts" aria-label="Porcentaje de descuento SALE"></div>
         </div>
+        <button id="clearFilters" class="clear-filters" type="button">Limpiar filtros</button>
       </section>
 
       <section class="summary" aria-live="polite">
@@ -40,7 +49,10 @@
 
     <template id="productCard">
       <article class="card">
-        <div class="photo"><span class="discount-badge"></span></div>
+        <div class="photo">
+          <span class="discount-badge"></span>
+          <span class="photo-placeholder">SALE<br /><small>Sin foto disponible</small></span>
+        </div>
         <div class="content">
           <p class="code"></p>
           <h2></h2>

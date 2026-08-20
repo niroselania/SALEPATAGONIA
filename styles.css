@@ -44,6 +44,24 @@ body {
   gap: 12px;
 }
 
+.sort {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: .78rem;
+  font-weight: 800;
+}
+
+.sort select {
+  min-height: 40px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--ink);
+  font: inherit;
+  padding: 0 10px;
+}
+
 .stock-button {
   justify-self: end;
   border-radius: 8px;
@@ -120,6 +138,10 @@ h1 {
 }
 
 .controls {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
   padding: 20px 0 4px;
 }
 
@@ -136,6 +158,19 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.clear-filters {
+  border: 0;
+  background: transparent;
+  color: var(--accent-strong);
+  cursor: pointer;
+  font: inherit;
+  font-size: .84rem;
+  font-weight: 800;
+  padding: 8px 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .chip {
@@ -204,11 +239,23 @@ h1 {
 }
 
 .photo.missing {
-  padding: 24px;
-  background: #e8e3d8;
-  color: var(--muted);
+  background: linear-gradient(145deg, #dce8e1, #f2eee4);
+  color: var(--accent-strong);
   text-align: center;
-  font-weight: 700;
+}
+
+.photo-placeholder {
+  font-size: 1.8rem;
+  font-weight: 950;
+  letter-spacing: .08em;
+  line-height: 1.15;
+}
+
+.photo-placeholder small {
+  color: var(--muted);
+  font-size: .68rem;
+  font-weight: 800;
+  letter-spacing: .02em;
 }
 
 .content {
@@ -301,6 +348,8 @@ dd {
   }
 
   .controls {
+    align-items: flex-start;
+    flex-direction: column;
     padding-top: 16px;
   }
 
