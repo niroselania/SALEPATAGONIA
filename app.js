@@ -61,6 +61,11 @@ function render(items) {
     node.querySelector("h2").textContent = product.name;
     node.querySelector(".retail-price").textContent = formatPrice(product.retail);
     node.querySelector(".sale-price").textContent = formatPrice(product.salePrice);
+    node.querySelector(".stock-total-value").textContent = product.stock?.total ?? 0;
+    node.querySelector(".stock-carrito").textContent = product.stock?.carrito ?? 0;
+    node.querySelector(".stock-local").textContent = product.stock?.local ?? 0;
+    node.querySelector(".stock-bariloche").textContent = product.stock?.bariloche ?? 0;
+    node.querySelector(".stock-rio").textContent = product.stock?.rio ?? 0;
     node.querySelector(".base-code").textContent = product.baseCode;
     node.querySelector(".color").textContent = product.color;
     results.append(node);

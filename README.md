@@ -32,8 +32,9 @@ El catálogo está en `products.json` y las fotos en `assets/`. Solo se publican
 
 ## Actualizar el SALE
 
-1. Copiar el Excel nuevo a la carpeta raíz del proyecto (no se sube a GitHub).
-2. Instalar la dependencia una vez: `python -m pip install -r requirements.txt`.
-3. Ejecutar: `python scripts/actualizar_catalogo_sale.py`.
+1. Copiar el Excel de precios a la carpeta raíz del proyecto (no se sube a GitHub).
+2. Copiar el Excel diario de stock como `STOCK.xlsx` en la carpeta raíz (no se sube a GitHub).
+3. Instalar la dependencia una vez: `python -m pip install -r requirements.txt`.
+4. Ejecutar: `python scripts/actualizar_catalogo_sale.py`.
 
-El script reconstruye `products.json`, conserva las fotos que coincidan con el SKU y elimina las imágenes que ya no pertenecen al catálogo SALE.
+El script reconstruye `products.json`, conserva las fotos que coincidan con el SKU y elimina las imágenes que ya no pertenecen al catálogo SALE. Del Excel `STOCK.xlsx` toma únicamente Carrito, Local, Bariloche y Río, y suma todos los talles de cada SKU+color.

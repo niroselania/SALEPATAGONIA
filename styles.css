@@ -302,6 +302,35 @@ h2 {
   font-size: 1.15rem;
 }
 
+.stock {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+.stock-total {
+  margin: 0 0 8px;
+  color: var(--accent-strong);
+  font-size: .88rem;
+  font-weight: 800;
+}
+
+.stock-total-value {
+  font-size: 1.06rem;
+}
+
+.stock-breakdown {
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+}
+
+.stock-breakdown dt {
+  font-size: .62rem;
+}
+
+.stock-breakdown dd {
+  font-size: .84rem;
+}
+
 dl {
   display: grid;
   grid-template-columns: 1fr 1fr;
