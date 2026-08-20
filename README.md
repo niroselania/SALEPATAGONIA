@@ -38,3 +38,10 @@ El catálogo está en `products.json` y las fotos en `assets/`. Solo se publican
 4. Ejecutar: `python scripts/actualizar_catalogo_sale.py`.
 
 El script reconstruye `products.json`, conserva las fotos que coincidan con el SKU y elimina las imágenes que ya no pertenecen al catálogo SALE. Del Excel `STOCK.xlsx` toma únicamente Carrito, Local, Bariloche y Río. La ficha muestra el total y el detalle por talle de cada SKU+color.
+
+## Importar fotos desde Shopify
+
+1. Copiar la planilla de enlaces como `FotosShopi.xlsx` en la carpeta raíz del proyecto (no se sube a GitHub).
+2. Ejecutar: `python scripts/importar_fotos_shopify.py`.
+
+El importador descarga únicamente fotos con coincidencia exacta de SKU+color, las guarda en `assets/` con el código del catálogo y actualiza `products.json`. Los enlaces que no correspondan exactamente no se incorporan.
