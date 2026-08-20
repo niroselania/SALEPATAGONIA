@@ -37,4 +37,4 @@ El catálogo está en `products.json` y las fotos en `assets/`. Solo se publican
 3. Instalar la dependencia una vez: `python -m pip install -r requirements.txt`.
 4. Ejecutar: `python scripts/actualizar_catalogo_sale.py`.
 
-El script reconstruye `products.json`, conserva las fotos que coincidan con el SKU y elimina las imágenes que ya no pertenecen al catálogo SALE. Del Excel `STOCK.xlsx` toma únicamente Carrito, Local, Bariloche y Río, y suma todos los talles de cada SKU+color.
+El script reconstruye `products.json`, conserva las fotos que coincidan con el SKU y elimina las imágenes que ya no pertenecen al catálogo SALE. Del Excel `STOCK.xlsx` toma únicamente Carrito, Local, Bariloche y Río. La ficha muestra el total y el detalle por talle de cada SKU+color.

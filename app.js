@@ -28,6 +28,8 @@ const formatPrice = (value) =>
 
 const formatDiscount = (value) => `${Math.round(value * 100)}%`;
 
+const compareSizes = (a, b) => a.localeCompare(b, "es", { numeric: true, sensitivity: "base" });
+
 function render(items) {
   results.replaceChildren();
   count.textContent = items.length;
@@ -66,6 +68,24 @@ function render(items) {
     node.querySelector(".stock-local").textContent = product.stock?.local ?? 0;
     node.querySelector(".stock-bariloche").textContent = product.stock?.bariloche ?? 0;
     node.querySelector(".stock-rio").textContent = product.stock?.rio ?? 0;
+    const sizeDetails = product.stock?.sizes || [];
+    if (sizeDetails.length) {
+      const sizeSection = node.querySelector(".stock-sizes");
+      const sizeRows = node.querySelector(".stock-size-rows");
+      sizeSection.hidden = false;
+      for (const size of [...sizeDetails].sort((a, b) => compareSizes(a.size, b.size))) {
+        const row = document.createElement("div");
+        row.className = "stock-size-row";
+        row.setAttribute("role", "row");
+        for (const value of [size.size, size.carrito, size.local, size.bariloche, size.rio]) {
+          const cell = document.createElement("span");
+          cell.setAttribute("role", "cell");
+          cell.textContent = value;
+          row.append(cell);
+        }
+        sizeRows.append(row);
+      }
+    }
     node.querySelector(".base-code").textContent = product.baseCode;
     node.querySelector(".color").textContent = product.color;
     results.append(node);

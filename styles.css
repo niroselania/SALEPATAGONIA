@@ -331,6 +331,51 @@ h2 {
   font-size: .84rem;
 }
 
+.stock-sizes {
+  margin-top: 12px;
+  border-top: 1px dashed var(--line);
+  padding-top: 10px;
+}
+
+.stock-sizes > p {
+  margin: 0 0 7px;
+  color: var(--muted);
+  font-size: .68rem;
+  font-weight: 850;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.stock-size-row {
+  display: grid;
+  grid-template-columns: 1.25fr repeat(4, 1fr);
+  gap: 3px;
+  padding: 4px 0;
+  text-align: center;
+}
+
+.stock-size-row span:first-child {
+  font-weight: 850;
+  text-align: left;
+}
+
+.stock-size-heading {
+  border-bottom: 1px solid var(--line);
+  color: var(--muted);
+  font-size: .58rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.stock-size-heading span:first-child {
+  font-weight: 850;
+}
+
+.stock-size-rows {
+  font-size: .72rem;
+  font-weight: 750;
+}
+
 dl {
   display: grid;
   grid-template-columns: 1fr 1fr;
