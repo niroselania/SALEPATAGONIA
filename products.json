@@ -9,20 +9,20 @@
     "discount": 0.3,
     "image": "assets/20050COI.png",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 3,
       "rio": 1,
       "bariloche": 3,
       "sizes": [
         {
           "size": "ALL",
-          "carrito": 12,
+          "carrito": 11,
           "local": 3,
           "rio": 1,
           "bariloche": 3
         }
       ],
-      "total": 19
+      "total": 18
     }
   },
   {
@@ -140,9 +140,16 @@
           "bariloche": 0
         },
         {
+          "size": "M",
+          "carrito": 0,
+          "local": 1,
+          "rio": 0,
+          "bariloche": 0
+        },
+        {
           "size": "S",
           "carrito": 6,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -167,7 +174,7 @@
     "discount": 0.4,
     "image": "assets/20625PNGR.png",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 5,
       "rio": 0,
       "bariloche": 0,
@@ -181,7 +188,7 @@
         },
         {
           "size": "M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -208,7 +215,7 @@
           "bariloche": 0
         }
       ],
-      "total": 14
+      "total": 13
     }
   },
   {
@@ -341,7 +348,7 @@
     "discount": 0.3,
     "image": "assets/20670NENA.png",
     "stock": {
-      "carrito": 5,
+      "carrito": 4,
       "local": 16,
       "rio": 4,
       "bariloche": 0,
@@ -369,13 +376,13 @@
         },
         {
           "size": "XL",
-          "carrito": 5,
+          "carrito": 4,
           "local": 3,
           "rio": 2,
           "bariloche": 0
         }
       ],
-      "total": 25
+      "total": 24
     }
   },
   {
@@ -428,15 +435,15 @@
     "discount": 0.4,
     "image": "assets/20765INBK.png",
     "stock": {
-      "carrito": 25,
-      "local": 27,
+      "carrito": 24,
+      "local": 26,
       "rio": 2,
       "bariloche": 15,
       "sizes": [
         {
           "size": "L",
           "carrito": 7,
-          "local": 5,
+          "local": 4,
           "rio": 1,
           "bariloche": 3
         },
@@ -449,7 +456,7 @@
         },
         {
           "size": "S",
-          "carrito": 3,
+          "carrito": 2,
           "local": 5,
           "rio": 0,
           "bariloche": 3
@@ -469,7 +476,7 @@
           "bariloche": 1
         }
       ],
-      "total": 69
+      "total": 67
     }
   },
   {
@@ -482,24 +489,24 @@
     "discount": 0.4,
     "image": "assets/20765SMDB.png",
     "stock": {
-      "carrito": 19,
-      "local": 18,
+      "carrito": 17,
+      "local": 17,
       "rio": 2,
-      "bariloche": 12,
+      "bariloche": 11,
       "sizes": [
         {
           "size": "L",
           "carrito": 7,
-          "local": 6,
+          "local": 5,
           "rio": 0,
           "bariloche": 3
         },
         {
           "size": "M",
-          "carrito": 4,
+          "carrito": 2,
           "local": 4,
           "rio": 2,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "S",
@@ -511,19 +518,19 @@
         {
           "size": "XL",
           "carrito": 3,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 2
         },
         {
           "size": "XXL",
           "carrito": 2,
-          "local": 1,
+          "local": 2,
           "rio": 0,
           "bariloche": 1
         }
       ],
-      "total": 51
+      "total": 47
     }
   },
   {
@@ -627,14 +634,14 @@
     "discount": 0.4,
     "image": "assets/21525FGE.jpg",
     "stock": {
-      "carrito": 19,
+      "carrito": 18,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "30",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -661,7 +668,7 @@
           "bariloche": 0
         }
       ],
-      "total": 19
+      "total": 18
     }
   },
   {
@@ -674,7 +681,7 @@
     "discount": 0.25,
     "image": "assets/21785COI.jpg",
     "stock": {
-      "carrito": 30,
+      "carrito": 29,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -702,7 +709,7 @@
         },
         {
           "size": "XL",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -715,7 +722,7 @@
           "bariloche": 0
         }
       ],
-      "total": 30
+      "total": 29
     }
   },
   {
@@ -904,7 +911,7 @@
     "discount": 0.4,
     "image": "assets/21925BURR.png",
     "stock": {
-      "carrito": 17,
+      "carrito": 20,
       "local": 27,
       "rio": 0,
       "bariloche": 0,
@@ -932,7 +939,7 @@
         },
         {
           "size": "6",
-          "carrito": 1,
+          "carrito": 4,
           "local": 8,
           "rio": 0,
           "bariloche": 0
@@ -945,7 +952,7 @@
           "bariloche": 0
         }
       ],
-      "total": 44
+      "total": 47
     }
   },
   {
@@ -976,7 +983,7 @@
     "discount": 0.5,
     "image": "assets/21930WLWT.jpg",
     "stock": {
-      "carrito": 10,
+      "carrito": 9,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -997,13 +1004,13 @@
         },
         {
           "size": "S",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 9
     }
   },
   {
@@ -1016,14 +1023,14 @@
     "discount": 0.5,
     "image": "assets/21936NUVG.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 6,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -1036,7 +1043,7 @@
           "bariloche": 0
         }
       ],
-      "total": 7
+      "total": 6
     }
   },
   {
@@ -1056,7 +1063,14 @@
       "sizes": [
         {
           "size": "L",
-          "carrito": 6,
+          "carrito": 5,
+          "local": 0,
+          "rio": 0,
+          "bariloche": 0
+        },
+        {
+          "size": "M",
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -1199,10 +1213,10 @@
     "discount": 0.3,
     "image": "assets/22135BSNG.png",
     "stock": {
-      "carrito": 27,
-      "local": 14,
+      "carrito": 24,
+      "local": 13,
       "rio": 0,
-      "bariloche": 23,
+      "bariloche": 22,
       "sizes": [
         {
           "size": "30",
@@ -1214,7 +1228,7 @@
         {
           "size": "31",
           "carrito": 2,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 1
         },
@@ -1226,13 +1240,6 @@
           "bariloche": 5
         },
         {
-          "size": "33",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "34",
           "carrito": 1,
           "local": 4,
@@ -1241,10 +1248,10 @@
         },
         {
           "size": "35",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
-          "bariloche": 1
+          "bariloche": 0
         },
         {
           "size": "36",
@@ -1262,13 +1269,13 @@
         },
         {
           "size": "40",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 2
         }
       ],
-      "total": 64
+      "total": 59
     }
   },
   {
@@ -1284,7 +1291,7 @@
       "carrito": 26,
       "local": 20,
       "rio": 0,
-      "bariloche": 19,
+      "bariloche": 18,
       "sizes": [
         {
           "size": "30",
@@ -1319,7 +1326,7 @@
           "carrito": 2,
           "local": 0,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "36",
@@ -1343,7 +1350,7 @@
           "bariloche": 2
         }
       ],
-      "total": 65
+      "total": 64
     }
   },
   {
@@ -1403,14 +1410,14 @@
       "carrito": 3,
       "local": 9,
       "rio": 0,
-      "bariloche": 12,
+      "bariloche": 11,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
           "local": 4,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "M",
@@ -1434,7 +1441,7 @@
           "bariloche": 4
         }
       ],
-      "total": 24
+      "total": 23
     }
   },
   {
@@ -1447,14 +1454,14 @@
     "discount": 0.4,
     "image": "assets/22765NGRY.png",
     "stock": {
-      "carrito": 11,
-      "local": 11,
+      "carrito": 10,
+      "local": 10,
       "rio": 1,
       "bariloche": 11,
       "sizes": [
         {
           "size": "L",
-          "carrito": 7,
+          "carrito": 6,
           "local": 5,
           "rio": 1,
           "bariloche": 2
@@ -1462,7 +1469,7 @@
         {
           "size": "M",
           "carrito": 0,
-          "local": 0,
+          "local": -1,
           "rio": 0,
           "bariloche": 4
         },
@@ -1481,7 +1488,7 @@
           "bariloche": 4
         }
       ],
-      "total": 34
+      "total": 32
     }
   },
   {
@@ -1495,8 +1502,8 @@
     "image": "assets/22770BSNG.png",
     "stock": {
       "carrito": 4,
-      "local": 13,
-      "rio": 4,
+      "local": 12,
+      "rio": 3,
       "bariloche": 10,
       "sizes": [
         {
@@ -1509,8 +1516,8 @@
         {
           "size": "M",
           "carrito": 0,
-          "local": 2,
-          "rio": 3,
+          "local": 1,
+          "rio": 2,
           "bariloche": 2
         },
         {
@@ -1528,7 +1535,7 @@
           "bariloche": 4
         }
       ],
-      "total": 31
+      "total": 29
     }
   },
   {
@@ -1541,14 +1548,14 @@
     "discount": 0.3,
     "image": "assets/22770DLMA.png",
     "stock": {
-      "carrito": 8,
-      "local": 15,
+      "carrito": 7,
+      "local": 14,
       "rio": 1,
       "bariloche": 12,
       "sizes": [
         {
           "size": "L",
-          "carrito": 5,
+          "carrito": 4,
           "local": 6,
           "rio": 1,
           "bariloche": 4
@@ -1563,12 +1570,12 @@
         {
           "size": "XL",
           "carrito": 3,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 5
         }
       ],
-      "total": 36
+      "total": 34
     }
   },
   {
@@ -1621,14 +1628,14 @@
     "discount": 0.4,
     "image": "assets/22770SINY.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 13,
       "local": 0,
-      "rio": 4,
+      "rio": 3,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 2,
+          "carrito": 5,
           "local": 0,
           "rio": 1,
           "bariloche": 0
@@ -1642,9 +1649,9 @@
         },
         {
           "size": "XL",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
-          "rio": 2,
+          "rio": 1,
           "bariloche": 0
         },
         {
@@ -1655,7 +1662,7 @@
           "bariloche": 0
         }
       ],
-      "total": 15
+      "total": 16
     }
   },
   {
@@ -1838,7 +1845,7 @@
     "image": "assets/22991SMDB.png",
     "stock": {
       "carrito": 1,
-      "local": 3,
+      "local": 2,
       "rio": 0,
       "bariloche": 1,
       "sizes": [
@@ -1862,16 +1869,9 @@
           "local": 0,
           "rio": 0,
           "bariloche": 1
-        },
-        {
-          "size": "XL",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
         }
       ],
-      "total": 5
+      "total": 4
     }
   },
   {
@@ -1884,10 +1884,10 @@
     "discount": 0.4,
     "image": "assets/23011SBDY.png",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 8,
       "rio": 0,
-      "bariloche": 7,
+      "bariloche": 6,
       "sizes": [
         {
           "size": "L",
@@ -1898,7 +1898,7 @@
         },
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 4,
           "rio": 0,
           "bariloche": 3
@@ -1915,10 +1915,10 @@
           "carrito": 7,
           "local": 2,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         }
       ],
-      "total": 27
+      "total": 25
     }
   },
   {
@@ -1931,14 +1931,14 @@
     "discount": 0.4,
     "image": "assets/23048DNLB.jpg",
     "stock": {
-      "carrito": 3,
+      "carrito": 2,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -1951,7 +1951,7 @@
           "bariloche": 0
         }
       ],
-      "total": 3
+      "total": 2
     }
   },
   {
@@ -2093,14 +2093,14 @@
     "image": "assets/23074NTSB.png",
     "stock": {
       "carrito": 2,
-      "local": 5,
+      "local": 4,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         },
@@ -2119,7 +2119,7 @@
           "bariloche": 0
         }
       ],
-      "total": 7
+      "total": 6
     }
   },
   {
@@ -2166,14 +2166,14 @@
     "image": "assets/23083NBDU.png",
     "stock": {
       "carrito": 1,
-      "local": 7,
+      "local": 5,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 1,
-          "local": 5,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         },
@@ -2185,7 +2185,7 @@
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 6
     }
   },
   {
@@ -2198,28 +2198,28 @@
     "discount": 0.5,
     "image": "assets/23165BLK.png",
     "stock": {
-      "carrito": 0,
-      "local": 16,
+      "carrito": 6,
+      "local": 14,
       "rio": 0,
       "bariloche": 15,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
-          "local": 6,
+          "local": 5,
           "rio": 0,
           "bariloche": 3
         },
         {
           "size": "M",
           "carrito": 0,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 5
         },
         {
           "size": "S",
-          "carrito": 0,
+          "carrito": 6,
           "local": 2,
           "rio": 0,
           "bariloche": 3
@@ -2239,7 +2239,7 @@
           "bariloche": 1
         }
       ],
-      "total": 31
+      "total": 35
     }
   },
   {
@@ -2318,14 +2318,14 @@
     "discount": 0.5,
     "image": "assets/23890BLK.jpg",
     "stock": {
-      "carrito": 26,
+      "carrito": 25,
       "local": 0,
       "rio": 3,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 1,
           "bariloche": 0
@@ -2359,7 +2359,7 @@
           "bariloche": 0
         }
       ],
-      "total": 29
+      "total": 28
     }
   },
   {
@@ -2766,14 +2766,14 @@
     "image": "assets/24040WAVB.jpg",
     "stock": {
       "carrito": 14,
-      "local": 14,
+      "local": 13,
       "rio": 0,
       "bariloche": 12,
       "sizes": [
         {
           "size": "L",
           "carrito": 3,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 2
         },
@@ -2799,7 +2799,7 @@
           "bariloche": 2
         }
       ],
-      "total": 40
+      "total": 39
     }
   },
   {
@@ -2877,14 +2877,14 @@
     "discount": 0.5,
     "image": "assets/24117PIMR.jpg",
     "stock": {
-      "carrito": 6,
+      "carrito": 5,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -2911,7 +2911,7 @@
           "bariloche": 0
         }
       ],
-      "total": 6
+      "total": 5
     }
   },
   {
@@ -2976,14 +2976,14 @@
     "image": "assets/24142PNGR.jpg",
     "stock": {
       "carrito": 3,
-      "local": 12,
+      "local": 11,
       "rio": 2,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
-          "carrito": 1,
-          "local": 3,
+          "carrito": 2,
+          "local": 2,
           "rio": 1,
           "bariloche": 0
         },
@@ -2996,13 +2996,13 @@
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 3,
           "rio": 1,
           "bariloche": 0
         }
       ],
-      "total": 17
+      "total": 16
     }
   },
   {
@@ -3056,7 +3056,7 @@
     "image": "assets/24147OXDR.jpg",
     "stock": {
       "carrito": 18,
-      "local": 19,
+      "local": 18,
       "rio": 0,
       "bariloche": 16,
       "sizes": [
@@ -3077,7 +3077,7 @@
         {
           "size": "S",
           "carrito": 6,
-          "local": 6,
+          "local": 5,
           "rio": 0,
           "bariloche": 4
         },
@@ -3096,7 +3096,7 @@
           "bariloche": 2
         }
       ],
-      "total": 53
+      "total": 52
     }
   },
   {
@@ -3145,7 +3145,7 @@
       "carrito": 12,
       "local": 18,
       "rio": 0,
-      "bariloche": 15,
+      "bariloche": 14,
       "sizes": [
         {
           "size": "L",
@@ -3173,7 +3173,7 @@
           "carrito": 2,
           "local": 2,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "XS",
@@ -3183,7 +3183,7 @@
           "bariloche": 2
         }
       ],
-      "total": 45
+      "total": 44
     }
   },
   {
@@ -3273,21 +3273,21 @@
     "discount": 0.5,
     "image": "assets/24197COHC.jpg",
     "stock": {
-      "carrito": 5,
+      "carrito": 4,
       "local": 10,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 1,
+          "carrito": 0,
           "local": 2,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "M",
-          "carrito": 0,
+          "carrito": 1,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -3308,13 +3308,13 @@
         },
         {
           "size": "XS",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 15
+      "total": 14
     }
   },
   {
@@ -3381,20 +3381,13 @@
     "discount": 0.5,
     "image": "assets/24260NUVG.jpg",
     "stock": {
-      "carrito": 6,
+      "carrito": 5,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "M",
           "carrito": 1,
           "local": 0,
           "rio": 0,
@@ -3415,7 +3408,7 @@
           "bariloche": 0
         }
       ],
-      "total": 6
+      "total": 5
     }
   },
   {
@@ -3560,41 +3553,41 @@
     "discount": 0.5,
     "image": "assets/24381PNGR.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 8,
       "local": 12,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 4,
+          "carrito": 3,
           "local": 2,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 1,
           "local": 4,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 1,
           "local": 2,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "XL",
-          "carrito": 4,
+          "carrito": 3,
           "local": 4,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 24
+      "total": 20
     }
   },
   {
@@ -3608,14 +3601,14 @@
     "image": "assets/24381UTB.jpg",
     "stock": {
       "carrito": 22,
-      "local": 11,
+      "local": 10,
       "rio": 0,
       "bariloche": 9,
       "sizes": [
         {
           "size": "L",
           "carrito": 8,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 4
         },
@@ -3641,7 +3634,7 @@
           "bariloche": 2
         }
       ],
-      "total": 42
+      "total": 41
     }
   },
   {
@@ -3834,7 +3827,7 @@
     "discount": 0.5,
     "image": "assets/24432OBPL.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 16,
       "local": 17,
       "rio": 3,
       "bariloche": 0,
@@ -3848,7 +3841,7 @@
         },
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 5,
           "rio": 0,
           "bariloche": 0
@@ -3868,7 +3861,7 @@
           "bariloche": 0
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -3922,7 +3915,7 @@
     "image": null,
     "stock": {
       "carrito": 15,
-      "local": 11,
+      "local": 8,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -3936,14 +3929,14 @@
         {
           "size": "M",
           "carrito": 4,
-          "local": 5,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
           "carrito": 4,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -3962,7 +3955,7 @@
           "bariloche": 0
         }
       ],
-      "total": 26
+      "total": 23
     }
   },
   {
@@ -3976,7 +3969,7 @@
     "image": null,
     "stock": {
       "carrito": 15,
-      "local": 13,
+      "local": 12,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -3997,7 +3990,7 @@
         {
           "size": "S",
           "carrito": 4,
-          "local": 5,
+          "local": 4,
           "rio": 0,
           "bariloche": 0
         },
@@ -4016,7 +4009,7 @@
           "bariloche": 0
         }
       ],
-      "total": 28
+      "total": 27
     }
   },
   {
@@ -4029,14 +4022,14 @@
     "discount": 0.5,
     "image": "assets/24442BLK.jpg",
     "stock": {
-      "carrito": 29,
+      "carrito": 28,
       "local": 0,
       "rio": 3,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -4070,7 +4063,7 @@
           "bariloche": 0
         }
       ],
-      "total": 32
+      "total": 31
     }
   },
   {
@@ -4203,17 +4196,17 @@
     "discount": 0.3,
     "image": "assets/24487BLK.jpg",
     "stock": {
-      "carrito": 30,
+      "carrito": 29,
       "local": 19,
       "rio": 8,
-      "bariloche": 14,
+      "bariloche": 13,
       "sizes": [
         {
           "size": "L",
           "carrito": 7,
           "local": 4,
           "rio": 2,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "M",
@@ -4224,7 +4217,7 @@
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 1,
           "local": 3,
           "rio": 0,
           "bariloche": 3
@@ -4244,7 +4237,7 @@
           "bariloche": 1
         }
       ],
-      "total": 71
+      "total": 69
     }
   },
   {
@@ -4260,14 +4253,14 @@
       "carrito": 11,
       "local": 15,
       "rio": 1,
-      "bariloche": 11,
+      "bariloche": 10,
       "sizes": [
         {
           "size": "L",
           "carrito": 2,
           "local": 5,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "M",
@@ -4298,7 +4291,7 @@
           "bariloche": 1
         }
       ],
-      "total": 38
+      "total": 37
     }
   },
   {
@@ -4340,14 +4333,14 @@
       "carrito": 9,
       "local": 15,
       "rio": 0,
-      "bariloche": 6,
+      "bariloche": 4,
       "sizes": [
         {
           "size": "L",
           "carrito": 1,
           "local": 3,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 1
         },
         {
           "size": "M",
@@ -4364,7 +4357,7 @@
           "bariloche": 3
         }
       ],
-      "total": 30
+      "total": 28
     }
   },
   {
@@ -4410,8 +4403,8 @@
     "discount": 0.4,
     "image": "assets/24492BLK.jpg",
     "stock": {
-      "carrito": 12,
-      "local": 20,
+      "carrito": 11,
+      "local": 19,
       "rio": 2,
       "bariloche": 7,
       "sizes": [
@@ -4424,7 +4417,7 @@
         },
         {
           "size": "M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 3,
           "rio": 1,
           "bariloche": 1
@@ -4432,7 +4425,7 @@
         {
           "size": "S",
           "carrito": 2,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         },
@@ -4451,7 +4444,7 @@
           "bariloche": 0
         }
       ],
-      "total": 41
+      "total": 39
     }
   },
   {
@@ -4652,7 +4645,7 @@
     "image": "assets/24668WAVB.jpg",
     "stock": {
       "carrito": 21,
-      "local": 1,
+      "local": 0,
       "rio": 3,
       "bariloche": 0,
       "sizes": [
@@ -4666,7 +4659,7 @@
         {
           "size": "M",
           "carrito": 5,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 0
         },
@@ -4692,7 +4685,7 @@
           "bariloche": 0
         }
       ],
-      "total": 25
+      "total": 24
     }
   },
   {
@@ -4733,14 +4726,14 @@
     "stock": {
       "carrito": 11,
       "local": 0,
-      "rio": 1,
+      "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 4,
           "local": 0,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 0
         },
         {
@@ -4772,7 +4765,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -4881,7 +4874,7 @@
     "stock": {
       "carrito": 36,
       "local": 3,
-      "rio": 6,
+      "rio": 5,
       "bariloche": 0,
       "sizes": [
         {
@@ -4923,7 +4916,7 @@
           "size": "36",
           "carrito": 4,
           "local": 0,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 0
         },
         {
@@ -4948,7 +4941,7 @@
           "bariloche": 0
         }
       ],
-      "total": 45
+      "total": 44
     }
   },
   {
@@ -4961,7 +4954,7 @@
     "discount": 0.5,
     "image": "assets/24723EVMA.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 13,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -4982,7 +4975,7 @@
         },
         {
           "size": "34",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -5009,7 +5002,7 @@
           "bariloche": 0
         }
       ],
-      "total": 14
+      "total": 13
     }
   },
   {
@@ -5158,7 +5151,7 @@
     "discount": 0.5,
     "image": "assets/24723UTB.jpg",
     "stock": {
-      "carrito": 36,
+      "carrito": 34,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -5179,7 +5172,7 @@
         },
         {
           "size": "32",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -5193,7 +5186,7 @@
         },
         {
           "size": "34",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -5213,7 +5206,7 @@
           "bariloche": 0
         }
       ],
-      "total": 36
+      "total": 34
     }
   },
   {
@@ -5634,7 +5627,7 @@
     "discount": 0.4,
     "image": "assets/24845NUVG.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 6,
       "local": 10,
       "rio": 0,
       "bariloche": 9,
@@ -5648,7 +5641,7 @@
         },
         {
           "size": "M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 3,
           "rio": 0,
           "bariloche": 5
@@ -5675,7 +5668,7 @@
           "bariloche": 1
         }
       ],
-      "total": 26
+      "total": 25
     }
   },
   {
@@ -5689,7 +5682,7 @@
     "image": "assets/24885LINL.jpg",
     "stock": {
       "carrito": 7,
-      "local": 4,
+      "local": 3,
       "rio": 0,
       "bariloche": 3,
       "sizes": [
@@ -5703,7 +5696,7 @@
         {
           "size": "M",
           "carrito": 3,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 0
         },
@@ -5722,7 +5715,7 @@
           "bariloche": 1
         }
       ],
-      "total": 14
+      "total": 13
     }
   },
   {
@@ -5761,7 +5754,7 @@
     "discount": 0.5,
     "image": "assets/24900BSNG.jpg",
     "stock": {
-      "carrito": 32,
+      "carrito": 31,
       "local": 0,
       "rio": 4,
       "bariloche": 0,
@@ -5789,7 +5782,7 @@
         },
         {
           "size": "33",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -5830,7 +5823,7 @@
           "bariloche": 0
         }
       ],
-      "total": 36
+      "total": 35
     }
   },
   {
@@ -6226,14 +6219,14 @@
     "discount": 0.4,
     "image": "assets/24971OBPL.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -6253,7 +6246,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -6353,7 +6346,7 @@
     "discount": 0.4,
     "image": "assets/24976BLK.jpg",
     "stock": {
-      "carrito": 21,
+      "carrito": 19,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -6367,14 +6360,14 @@
         },
         {
           "size": "M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -6394,7 +6387,7 @@
           "bariloche": 0
         }
       ],
-      "total": 21
+      "total": 19
     }
   },
   {
@@ -6454,7 +6447,7 @@
     "discount": 0.4,
     "image": "assets/24976JOYG.jpg",
     "stock": {
-      "carrito": 31,
+      "carrito": 30,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -6475,7 +6468,7 @@
         },
         {
           "size": "S",
-          "carrito": 9,
+          "carrito": 8,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -6495,7 +6488,7 @@
           "bariloche": 0
         }
       ],
-      "total": 31
+      "total": 30
     }
   },
   {
@@ -6642,14 +6635,14 @@
     "discount": 0.3,
     "image": "assets/25212SGRY.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 15,
       "local": 21,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 5,
+          "carrito": 4,
           "local": 5,
           "rio": 0,
           "bariloche": 0
@@ -6663,7 +6656,7 @@
         },
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 3,
           "local": 6,
           "rio": 0,
           "bariloche": 0
@@ -6683,7 +6676,7 @@
           "bariloche": 0
         }
       ],
-      "total": 38
+      "total": 36
     }
   },
   {
@@ -6696,7 +6689,7 @@
     "discount": 0.3,
     "image": "assets/25216PATN.jpg",
     "stock": {
-      "carrito": 18,
+      "carrito": 15,
       "local": 22,
       "rio": 0,
       "bariloche": 0,
@@ -6710,14 +6703,14 @@
         },
         {
           "size": "M",
-          "carrito": 5,
+          "carrito": 3,
           "local": 4,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 3,
+          "carrito": 2,
           "local": 5,
           "rio": 0,
           "bariloche": 0
@@ -6737,7 +6730,7 @@
           "bariloche": 0
         }
       ],
-      "total": 40
+      "total": 37
     }
   },
   {
@@ -6753,14 +6746,14 @@
       "carrito": 19,
       "local": 21,
       "rio": 0,
-      "bariloche": 12,
+      "bariloche": 11,
       "sizes": [
         {
           "size": "L",
           "carrito": 3,
           "local": 4,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "M",
@@ -6791,7 +6784,7 @@
           "bariloche": 2
         }
       ],
-      "total": 52
+      "total": 51
     }
   },
   {
@@ -6919,7 +6912,7 @@
       "carrito": 1,
       "local": 11,
       "rio": 0,
-      "bariloche": 10,
+      "bariloche": 9,
       "sizes": [
         {
           "size": "L",
@@ -6954,10 +6947,10 @@
           "carrito": 1,
           "local": 3,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         }
       ],
-      "total": 22
+      "total": 21
     }
   },
   {
@@ -7003,14 +6996,14 @@
     "discount": 0.3,
     "image": "assets/25455ECPU.jpg",
     "stock": {
-      "carrito": 13,
+      "carrito": 12,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -7044,7 +7037,7 @@
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 12
     }
   },
   {
@@ -7097,8 +7090,8 @@
     "discount": 0.35,
     "image": "assets/25523INDG.jpg",
     "stock": {
-      "carrito": 6,
-      "local": 4,
+      "carrito": 5,
+      "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -7111,8 +7104,8 @@
         },
         {
           "size": "XL",
-          "carrito": 3,
-          "local": 1,
+          "carrito": 2,
+          "local": 0,
           "rio": 0,
           "bariloche": 0
         },
@@ -7124,7 +7117,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 8
     }
   },
   {
@@ -7137,15 +7130,15 @@
     "discount": 0.35,
     "image": "assets/25523NENA.jpg",
     "stock": {
-      "carrito": 16,
-      "local": 1,
+      "carrito": 15,
+      "local": 2,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "XL",
-          "carrito": 9,
-          "local": 0,
+          "carrito": 8,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -7431,28 +7424,28 @@
     "image": "assets/25543GRBN.jpg",
     "stock": {
       "carrito": 14,
-      "local": 12,
+      "local": 8,
       "rio": 0,
       "bariloche": 6,
       "sizes": [
         {
           "size": "L",
           "carrito": 3,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "M",
           "carrito": 6,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
           "carrito": 4,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 2
         },
@@ -7466,12 +7459,12 @@
         {
           "size": "XS",
           "carrito": 1,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 3
         }
       ],
-      "total": 32
+      "total": 28
     }
   },
   {
@@ -7510,14 +7503,14 @@
     "discount": 0.4,
     "image": "assets/25543PIMR.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 13,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -7537,7 +7530,7 @@
           "bariloche": 0
         }
       ],
-      "total": 14
+      "total": 13
     }
   },
   {
@@ -7568,7 +7561,7 @@
     "discount": 0.4,
     "image": "assets/25543STMA.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 10,
       "local": 1,
       "rio": 0,
       "bariloche": 0,
@@ -7582,20 +7575,20 @@
         },
         {
           "size": "S",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "XS",
-          "carrito": 4,
+          "carrito": 3,
           "local": 1,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 11
     }
   },
   {
@@ -7747,7 +7740,7 @@
     "discount": 0.4,
     "image": "assets/25618STMA.jpg",
     "stock": {
-      "carrito": 2,
+      "carrito": 1,
       "local": 1,
       "rio": 0,
       "bariloche": 0,
@@ -7765,16 +7758,9 @@
           "local": 1,
           "rio": 0,
           "bariloche": 0
-        },
-        {
-          "size": "XS",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
         }
       ],
-      "total": 3
+      "total": 2
     }
   },
   {
@@ -7897,7 +7883,7 @@
     "image": "assets/25887STMA.jpg",
     "stock": {
       "carrito": 13,
-      "local": 14,
+      "local": 13,
       "rio": 0,
       "bariloche": 11,
       "sizes": [
@@ -7932,12 +7918,12 @@
         {
           "size": "XS",
           "carrito": 4,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 38
+      "total": 37
     }
   },
   {
@@ -8065,11 +8051,19 @@
     "image": "assets/26171NENA.jpg",
     "stock": {
       "carrito": 0,
-      "local": 0,
+      "local": 1,
       "rio": 0,
       "bariloche": 0,
-      "total": 0,
-      "sizes": []
+      "sizes": [
+        {
+          "size": "XXL",
+          "carrito": 0,
+          "local": 1,
+          "rio": 0,
+          "bariloche": 0
+        }
+      ],
+      "total": 1
     }
   },
   {
@@ -8083,7 +8077,7 @@
     "image": "assets/26171TPGN.jpg",
     "stock": {
       "carrito": 8,
-      "local": 2,
+      "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -8109,7 +8103,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 8
     }
   },
   {
@@ -8122,7 +8116,7 @@
     "discount": 0.4,
     "image": "assets/26270NAT.jpg",
     "stock": {
-      "carrito": 30,
+      "carrito": 29,
       "local": 12,
       "rio": 2,
       "bariloche": 0,
@@ -8136,7 +8130,7 @@
         },
         {
           "size": "M",
-          "carrito": 8,
+          "carrito": 7,
           "local": 2,
           "rio": 0,
           "bariloche": 0
@@ -8163,7 +8157,7 @@
           "bariloche": 0
         }
       ],
-      "total": 44
+      "total": 43
     }
   },
   {
@@ -8283,7 +8277,7 @@
     "image": "assets/26545BSNG.jpg",
     "stock": {
       "carrito": 21,
-      "local": 7,
+      "local": 6,
       "rio": 0,
       "bariloche": 9,
       "sizes": [
@@ -8297,7 +8291,7 @@
         {
           "size": "M",
           "carrito": 7,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 2
         },
@@ -8323,7 +8317,7 @@
           "bariloche": 2
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -8384,19 +8378,11 @@
     "image": "assets/26685TGRN.jpg",
     "stock": {
       "carrito": 0,
-      "local": 1,
+      "local": 0,
       "rio": 0,
       "bariloche": 0,
-      "sizes": [
-        {
-          "size": "XS",
-          "carrito": 0,
-          "local": 2,
-          "rio": 0,
-          "bariloche": 0
-        }
-      ],
-      "total": 1
+      "total": 0,
+      "sizes": []
     }
   },
   {
@@ -8409,21 +8395,14 @@
     "discount": 0.4,
     "image": "assets/26780SNBL.jpg",
     "stock": {
-      "carrito": 21,
+      "carrito": 19,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
-          "size": "M",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "S",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -8443,7 +8422,7 @@
           "bariloche": 0
         }
       ],
-      "total": 21
+      "total": 19
     }
   },
   {
@@ -8456,14 +8435,14 @@
     "discount": 0.4,
     "image": "assets/26825BSNG.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": -1,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
-          "carrito": 3,
+          "carrito": 2,
           "local": -1,
           "rio": 0,
           "bariloche": 0
@@ -8476,7 +8455,7 @@
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 7
     }
   },
   {
@@ -8489,7 +8468,7 @@
     "discount": 0.4,
     "image": "assets/26825PIBL.png",
     "stock": {
-      "carrito": 21,
+      "carrito": 20,
       "local": 20,
       "rio": 3,
       "bariloche": 0,
@@ -8524,7 +8503,7 @@
         },
         {
           "size": "XS",
-          "carrito": 4,
+          "carrito": 3,
           "local": 4,
           "rio": 0,
           "bariloche": 0
@@ -8537,7 +8516,7 @@
           "bariloche": 0
         }
       ],
-      "total": 44
+      "total": 43
     }
   },
   {
@@ -8553,14 +8532,14 @@
       "carrito": 19,
       "local": 14,
       "rio": 0,
-      "bariloche": 9,
+      "bariloche": 8,
       "sizes": [
         {
           "size": "L",
           "carrito": 4,
           "local": 3,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "M",
@@ -8598,7 +8577,7 @@
           "bariloche": 1
         }
       ],
-      "total": 42
+      "total": 41
     }
   },
   {
@@ -8611,9 +8590,9 @@
     "discount": 0.3,
     "image": "assets/26845SMDB.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 11,
       "local": 24,
-      "rio": 1,
+      "rio": 0,
       "bariloche": 15,
       "sizes": [
         {
@@ -8625,14 +8604,14 @@
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 1,
           "local": 3,
           "rio": 0,
           "bariloche": 3
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 1,
           "local": 6,
           "rio": 0,
           "bariloche": 3
@@ -8641,12 +8620,12 @@
           "size": "XL",
           "carrito": 2,
           "local": 5,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 3
         },
         {
           "size": "XS",
-          "carrito": 3,
+          "carrito": 2,
           "local": 3,
           "rio": 0,
           "bariloche": 1
@@ -8659,7 +8638,7 @@
           "bariloche": 2
         }
       ],
-      "total": 54
+      "total": 50
     }
   },
   {
@@ -8698,8 +8677,8 @@
     "discount": 0.5,
     "image": "assets/27120BLK.jpg",
     "stock": {
-      "carrito": 27,
-      "local": 20,
+      "carrito": 26,
+      "local": 19,
       "rio": 2,
       "bariloche": 0,
       "sizes": [
@@ -8720,13 +8699,13 @@
         {
           "size": "S",
           "carrito": 11,
-          "local": 5,
+          "local": 4,
           "rio": 1,
           "bariloche": 0
         },
         {
           "size": "XL",
-          "carrito": 3,
+          "carrito": 2,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -8739,7 +8718,7 @@
           "bariloche": 0
         }
       ],
-      "total": 49
+      "total": 47
     }
   },
   {
@@ -8752,18 +8731,11 @@
     "discount": 0.5,
     "image": "assets/27120PUM.jpg",
     "stock": {
-      "carrito": 5,
+      "carrito": 4,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "S",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "XS",
           "carrito": 4,
@@ -8772,7 +8744,7 @@
           "bariloche": 0
         }
       ],
-      "total": 5
+      "total": 4
     }
   },
   {
@@ -8829,22 +8801,22 @@
     "discount": 0.3,
     "image": "assets/27747SHBN.jpg",
     "stock": {
-      "carrito": 6,
-      "local": 6,
+      "carrito": 5,
+      "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
           "carrito": 1,
-          "local": 2,
+          "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 3,
-          "local": 3,
+          "carrito": 2,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -8856,7 +8828,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 8
     }
   },
   {
@@ -8897,14 +8869,14 @@
     "stock": {
       "carrito": 19,
       "local": 18,
-      "rio": 5,
+      "rio": 4,
       "bariloche": 12,
       "sizes": [
         {
           "size": "L",
           "carrito": 5,
           "local": 5,
-          "rio": 2,
+          "rio": 1,
           "bariloche": 3
         },
         {
@@ -8929,7 +8901,7 @@
           "bariloche": 3
         }
       ],
-      "total": 54
+      "total": 53
     }
   },
   {
@@ -8943,14 +8915,14 @@
     "image": "assets/27917BSNG.jpg",
     "stock": {
       "carrito": 12,
-      "local": 7,
-      "rio": 1,
+      "local": 6,
+      "rio": 0,
       "bariloche": 12,
       "sizes": [
         {
           "size": "L",
           "carrito": 1,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 4
         },
@@ -8965,7 +8937,7 @@
           "size": "S",
           "carrito": 5,
           "local": 5,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 3
         },
         {
@@ -8983,7 +8955,7 @@
           "bariloche": 1
         }
       ],
-      "total": 32
+      "total": 30
     }
   },
   {
@@ -9043,10 +9015,10 @@
     "discount": 0.35,
     "image": "assets/27951BLK.jpg",
     "stock": {
-      "carrito": 5,
+      "carrito": 6,
       "local": 3,
       "rio": 0,
-      "bariloche": 4,
+      "bariloche": 3,
       "sizes": [
         {
           "size": "L",
@@ -9057,7 +9029,7 @@
         },
         {
           "size": "M",
-          "carrito": 0,
+          "carrito": 1,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -9067,7 +9039,7 @@
           "carrito": 1,
           "local": 1,
           "rio": 0,
-          "bariloche": 1
+          "bariloche": 0
         },
         {
           "size": "XL",
@@ -9163,8 +9135,8 @@
     "discount": 0.35,
     "image": "assets/28389NENA.jpg",
     "stock": {
-      "carrito": 33,
-      "local": 19,
+      "carrito": 31,
+      "local": 18,
       "rio": 3,
       "bariloche": 0,
       "sizes": [
@@ -9178,13 +9150,13 @@
         {
           "size": "M",
           "carrito": 8,
-          "local": 5,
+          "local": 4,
           "rio": 1,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 7,
+          "carrito": 5,
           "local": 6,
           "rio": 1,
           "bariloche": 0
@@ -9204,7 +9176,7 @@
           "bariloche": 0
         }
       ],
-      "total": 55
+      "total": 52
     }
   },
   {
@@ -9250,14 +9222,14 @@
     "discount": 0.4,
     "image": "assets/28411OBPL.jpg",
     "stock": {
-      "carrito": 15,
+      "carrito": 14,
       "local": 12,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 3,
+          "carrito": 2,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -9291,7 +9263,7 @@
           "bariloche": 0
         }
       ],
-      "total": 27
+      "total": 26
     }
   },
   {
@@ -9358,7 +9330,7 @@
     "discount": 0.4,
     "image": "assets/28442DLMA.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 6,
       "local": 15,
       "rio": 1,
       "bariloche": 0,
@@ -9372,7 +9344,7 @@
         },
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 2,
           "rio": 0,
           "bariloche": 0
@@ -9399,7 +9371,7 @@
           "bariloche": 0
         }
       ],
-      "total": 23
+      "total": 22
     }
   },
   {
@@ -9543,7 +9515,7 @@
     "discount": 0.2,
     "image": "assets/32545NENA.jpg",
     "stock": {
-      "carrito": 21,
+      "carrito": 20,
       "local": 29,
       "rio": 0,
       "bariloche": 0,
@@ -9557,7 +9529,7 @@
         },
         {
           "size": "XL",
-          "carrito": 11,
+          "carrito": 10,
           "local": 12,
           "rio": 0,
           "bariloche": 0
@@ -9570,7 +9542,7 @@
           "bariloche": 0
         }
       ],
-      "total": 50
+      "total": 49
     }
   },
   {
@@ -9583,7 +9555,7 @@
     "discount": 0.2,
     "image": "assets/32550BLK.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 15,
       "local": 18,
       "rio": 0,
       "bariloche": 7,
@@ -9597,7 +9569,7 @@
         },
         {
           "size": "XL",
-          "carrito": 12,
+          "carrito": 10,
           "local": 8,
           "rio": 0,
           "bariloche": 3
@@ -9610,7 +9582,7 @@
           "bariloche": 2
         }
       ],
-      "total": 42
+      "total": 40
     }
   },
   {
@@ -10199,7 +10171,7 @@
     "image": "assets/39667LMBE.jpg",
     "stock": {
       "carrito": 10,
-      "local": 8,
+      "local": 7,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -10207,13 +10179,6 @@
           "size": "M",
           "carrito": 1,
           "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "S",
-          "carrito": 0,
-          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -10232,7 +10197,7 @@
           "bariloche": 0
         }
       ],
-      "total": 18
+      "total": 17
     }
   },
   {
@@ -10271,27 +10236,27 @@
     "discount": 0.4,
     "image": "assets/39678ENLB.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 2,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "XS",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "XXL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 4
+      "total": 2
     }
   },
   {
@@ -10304,15 +10269,15 @@
     "discount": 0.3,
     "image": "assets/40069ENLB.jpg",
     "stock": {
-      "carrito": 7,
-      "local": 21,
+      "carrito": 6,
+      "local": 20,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -10332,7 +10297,7 @@
         },
         {
           "size": "XL",
-          "carrito": 3,
+          "carrito": 2,
           "local": 6,
           "rio": 0,
           "bariloche": 0
@@ -10345,7 +10310,7 @@
           "bariloche": 0
         }
       ],
-      "total": 28
+      "total": 26
     }
   },
   {
@@ -10358,29 +10323,29 @@
     "discount": 0.3,
     "image": "assets/40110ENLB.png",
     "stock": {
-      "carrito": 1,
-      "local": 12,
+      "carrito": 0,
+      "local": 9,
       "rio": 0,
       "bariloche": 9,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
-          "local": 2,
+          "local": 0,
           "rio": 0,
           "bariloche": 1
         },
         {
           "size": "M",
-          "carrito": 1,
-          "local": 2,
+          "carrito": 0,
+          "local": 3,
           "rio": 0,
           "bariloche": 2
         },
         {
           "size": "S",
           "carrito": 0,
-          "local": 4,
+          "local": 2,
           "rio": 0,
           "bariloche": 3
         },
@@ -10392,7 +10357,7 @@
           "bariloche": 3
         }
       ],
-      "total": 22
+      "total": 18
     }
   },
   {
@@ -10431,14 +10396,14 @@
     "discount": 0.4,
     "image": "assets/40119HERG.jpg",
     "stock": {
-      "carrito": 3,
+      "carrito": 2,
       "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 1,
+          "carrito": 0,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -10451,7 +10416,7 @@
           "bariloche": 0
         }
       ],
-      "total": 6
+      "total": 5
     }
   },
   {
@@ -10464,7 +10429,7 @@
     "discount": 0.4,
     "image": "assets/40119LMBE.jpg",
     "stock": {
-      "carrito": 16,
+      "carrito": 15,
       "local": 8,
       "rio": 0,
       "bariloche": 0,
@@ -10499,13 +10464,13 @@
         },
         {
           "size": "XS",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 24
+      "total": 23
     }
   },
   {
@@ -10551,7 +10516,7 @@
     "discount": 0.3,
     "image": "assets/40235ENLB.png",
     "stock": {
-      "carrito": 2,
+      "carrito": 1,
       "local": 5,
       "rio": 0,
       "bariloche": 0,
@@ -10572,13 +10537,13 @@
         },
         {
           "size": "XXL",
-          "carrito": 1,
+          "carrito": 0,
           "local": 2,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 7
+      "total": 6
     }
   },
   {
@@ -10594,7 +10559,7 @@
       "carrito": 15,
       "local": 8,
       "rio": 0,
-      "bariloche": 13,
+      "bariloche": 12,
       "sizes": [
         {
           "size": "L",
@@ -10608,7 +10573,7 @@
           "carrito": 5,
           "local": 1,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "S",
@@ -10632,7 +10597,7 @@
           "bariloche": 2
         }
       ],
-      "total": 36
+      "total": 35
     }
   },
   {
@@ -10753,7 +10718,7 @@
     "discount": 0.4,
     "image": "assets/40515INBX.jpg",
     "stock": {
-      "carrito": 18,
+      "carrito": 16,
       "local": 1,
       "rio": 1,
       "bariloche": 0,
@@ -10767,7 +10732,7 @@
         },
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -10781,7 +10746,7 @@
         },
         {
           "size": "XL",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -10794,7 +10759,7 @@
           "bariloche": 0
         }
       ],
-      "total": 20
+      "total": 18
     }
   },
   {
@@ -10941,22 +10906,15 @@
     "discount": 0.4,
     "image": "assets/40580PNGR.jpg",
     "stock": {
-      "carrito": 7,
-      "local": 4,
+      "carrito": 6,
+      "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
-          "local": 2,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "M",
-          "carrito": 1,
-          "local": 0,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -10982,7 +10940,7 @@
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 9
     }
   },
   {
@@ -11121,7 +11079,7 @@
     "discount": 0.4,
     "image": "assets/41585PNGR.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 9,
       "local": 0,
       "rio": 0,
       "bariloche": 9,
@@ -11135,7 +11093,7 @@
         },
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 3
@@ -11162,7 +11120,7 @@
           "bariloche": 0
         }
       ],
-      "total": 20
+      "total": 18
     }
   },
   {
@@ -11175,14 +11133,14 @@
     "discount": 0.4,
     "image": "assets/41590BURD.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 7,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -11202,7 +11160,7 @@
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 7
     }
   },
   {
@@ -11303,7 +11261,7 @@
     "image": "assets/41590NUVG.jpg",
     "stock": {
       "carrito": 18,
-      "local": 11,
+      "local": 9,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -11317,7 +11275,7 @@
         {
           "size": "M",
           "carrito": 0,
-          "local": 3,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -11343,7 +11301,7 @@
           "bariloche": 0
         }
       ],
-      "total": 29
+      "total": 27
     }
   },
   {
@@ -11356,7 +11314,7 @@
     "discount": 0.4,
     "image": "assets/41590PUM.jpg",
     "stock": {
-      "carrito": 35,
+      "carrito": 34,
       "local": 13,
       "rio": 0,
       "bariloche": 1,
@@ -11377,7 +11335,7 @@
         },
         {
           "size": "S",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -11397,7 +11355,7 @@
           "bariloche": 0
         }
       ],
-      "total": 49
+      "total": 48
     }
   },
   {
@@ -11592,7 +11550,7 @@
     "image": "assets/41630COSM.jpg",
     "stock": {
       "carrito": 19,
-      "local": 20,
+      "local": 18,
       "rio": 0,
       "bariloche": 6,
       "sizes": [
@@ -11613,7 +11571,7 @@
         {
           "size": "S",
           "carrito": 6,
-          "local": 5,
+          "local": 3,
           "rio": 0,
           "bariloche": 1
         },
@@ -11632,7 +11590,7 @@
           "bariloche": 0
         }
       ],
-      "total": 45
+      "total": 43
     }
   },
   {
@@ -11870,7 +11828,7 @@
     "discount": 0.4,
     "image": "assets/41900SINY.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 11,
       "rio": 0,
       "bariloche": 0,
@@ -11898,7 +11856,7 @@
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 4,
           "rio": 0,
           "bariloche": 0
@@ -11911,7 +11869,7 @@
           "bariloche": 0
         }
       ],
-      "total": 20
+      "total": 19
     }
   },
   {
@@ -11964,14 +11922,14 @@
     "discount": 0.4,
     "image": "assets/41910SLVG.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 13,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -11998,7 +11956,7 @@
           "bariloche": 0
         }
       ],
-      "total": 14
+      "total": 13
     }
   },
   {
@@ -12076,8 +12034,8 @@
     "discount": 0.4,
     "image": "assets/41930WPYG.jpg",
     "stock": {
-      "carrito": 22,
-      "local": 13,
+      "carrito": 21,
+      "local": 12,
       "rio": 6,
       "bariloche": 0,
       "sizes": [
@@ -12090,8 +12048,8 @@
         },
         {
           "size": "M",
-          "carrito": 6,
-          "local": 2,
+          "carrito": 5,
+          "local": 1,
           "rio": 1,
           "bariloche": 0
         },
@@ -12110,7 +12068,7 @@
           "bariloche": 0
         }
       ],
-      "total": 41
+      "total": 39
     }
   },
   {
@@ -12141,20 +12099,20 @@
     "discount": 0.4,
     "image": "assets/41935JYNL.jpg",
     "stock": {
-      "carrito": 6,
+      "carrito": 5,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 6
+      "total": 5
     }
   },
   {
@@ -12242,7 +12200,7 @@
       "carrito": 22,
       "local": 17,
       "rio": 0,
-      "bariloche": 11,
+      "bariloche": 10,
       "sizes": [
         {
           "size": "L",
@@ -12277,10 +12235,10 @@
           "carrito": 3,
           "local": 2,
           "rio": 0,
-          "bariloche": 1
+          "bariloche": 0
         }
       ],
-      "total": 50
+      "total": 49
     }
   },
   {
@@ -12293,7 +12251,7 @@
     "discount": 0.3,
     "image": "assets/42152PNGR.jpg",
     "stock": {
-      "carrito": 20,
+      "carrito": 19,
       "local": 17,
       "rio": 0,
       "bariloche": 0,
@@ -12321,7 +12279,7 @@
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -12334,7 +12292,7 @@
           "bariloche": 0
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -12594,7 +12552,7 @@
     "discount": 0.4,
     "image": "assets/42240CHYO.jpg",
     "stock": {
-      "carrito": 18,
+      "carrito": 17,
       "local": 0,
       "rio": 4,
       "bariloche": 0,
@@ -12629,13 +12587,13 @@
         },
         {
           "size": "XXL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 22
+      "total": 21
     }
   },
   {
@@ -12681,14 +12639,14 @@
     "discount": 0.4,
     "image": "assets/42240CYPI.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 7,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -12701,7 +12659,7 @@
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 7
     }
   },
   {
@@ -12747,7 +12705,7 @@
     "discount": 0.4,
     "image": "assets/42315MLKE.jpg",
     "stock": {
-      "carrito": 10,
+      "carrito": 9,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -12761,7 +12719,7 @@
         },
         {
           "size": "S",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -12774,7 +12732,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 9
     }
   },
   {
@@ -12907,7 +12865,7 @@
     "discount": 0.3,
     "image": "assets/42401CATL.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 3,
       "rio": 0,
       "bariloche": 0,
@@ -12928,13 +12886,13 @@
         },
         {
           "size": "XL",
-          "carrito": 4,
+          "carrito": 3,
           "local": 2,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -12950,7 +12908,7 @@
       "carrito": 14,
       "local": 1,
       "rio": 0,
-      "bariloche": 7,
+      "bariloche": 5,
       "sizes": [
         {
           "size": "L",
@@ -12978,10 +12936,10 @@
           "carrito": 2,
           "local": 0,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 0
         }
       ],
-      "total": 22
+      "total": 20
     }
   },
   {
@@ -12995,9 +12953,9 @@
     "image": "assets/42406COXR.jpg",
     "stock": {
       "carrito": 13,
-      "local": 7,
+      "local": 8,
       "rio": 0,
-      "bariloche": 6,
+      "bariloche": 5,
       "sizes": [
         {
           "size": "L",
@@ -13009,7 +12967,7 @@
         {
           "size": "M",
           "carrito": 5,
-          "local": 2,
+          "local": 3,
           "rio": 0,
           "bariloche": 2
         },
@@ -13018,7 +12976,7 @@
           "carrito": 3,
           "local": 1,
           "rio": 0,
-          "bariloche": 1
+          "bariloche": 0
         },
         {
           "size": "XL",
@@ -13226,14 +13184,14 @@
     "discount": 0.3,
     "image": "assets/43687BLK.jpg",
     "stock": {
-      "carrito": 2,
+      "carrito": 1,
       "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "XL",
-          "carrito": 1,
+          "carrito": 0,
           "local": 2,
           "rio": 0,
           "bariloche": 0
@@ -13246,7 +13204,7 @@
           "bariloche": 0
         }
       ],
-      "total": 5
+      "total": 4
     }
   },
   {
@@ -13286,7 +13244,7 @@
     "image": "assets/44427SMDB.jpg",
     "stock": {
       "carrito": 43,
-      "local": 11,
+      "local": 10,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
@@ -13307,7 +13265,7 @@
         {
           "size": "S",
           "carrito": 12,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -13326,7 +13284,7 @@
           "bariloche": 0
         }
       ],
-      "total": 55
+      "total": 54
     }
   },
   {
@@ -13342,7 +13300,7 @@
       "carrito": 10,
       "local": 3,
       "rio": 0,
-      "bariloche": 6,
+      "bariloche": 5,
       "sizes": [
         {
           "size": "L",
@@ -13363,7 +13321,7 @@
           "carrito": 1,
           "local": 0,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "XS",
@@ -13373,7 +13331,7 @@
           "bariloche": 0
         }
       ],
-      "total": 19
+      "total": 18
     }
   },
   {
@@ -13386,7 +13344,7 @@
     "discount": 0.4,
     "image": "assets/44437BLK.jpg",
     "stock": {
-      "carrito": 37,
+      "carrito": 36,
       "local": 16,
       "rio": 2,
       "bariloche": 15,
@@ -13400,7 +13358,7 @@
         },
         {
           "size": "M",
-          "carrito": 5,
+          "carrito": 4,
           "local": 3,
           "rio": 1,
           "bariloche": 3
@@ -13427,7 +13385,7 @@
           "bariloche": 1
         }
       ],
-      "total": 70
+      "total": 69
     }
   },
   {
@@ -13440,10 +13398,10 @@
     "discount": 0.4,
     "image": "assets/44437LMBE.jpg",
     "stock": {
-      "carrito": 29,
+      "carrito": 27,
       "local": 20,
       "rio": 0,
-      "bariloche": 13,
+      "bariloche": 11,
       "sizes": [
         {
           "size": "L",
@@ -13454,17 +13412,17 @@
         },
         {
           "size": "M",
-          "carrito": 7,
+          "carrito": 6,
           "local": 3,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "S",
           "carrito": 6,
           "local": 2,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "XL",
@@ -13475,13 +13433,13 @@
         },
         {
           "size": "XS",
-          "carrito": 4,
+          "carrito": 3,
           "local": 3,
           "rio": 0,
           "bariloche": 4
         }
       ],
-      "total": 62
+      "total": 58
     }
   },
   {
@@ -13603,7 +13561,7 @@
       "carrito": 7,
       "local": 3,
       "rio": 0,
-      "bariloche": 8,
+      "bariloche": 6,
       "sizes": [
         {
           "size": "S",
@@ -13617,7 +13575,7 @@
           "carrito": 3,
           "local": 0,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 1
         },
         {
           "size": "XXL",
@@ -13627,7 +13585,7 @@
           "bariloche": 3
         }
       ],
-      "total": 18
+      "total": 16
     }
   },
   {
@@ -13667,7 +13625,7 @@
     "image": "assets/44457PNGR.jpg",
     "stock": {
       "carrito": 13,
-      "local": 9,
+      "local": 8,
       "rio": 0,
       "bariloche": 12,
       "sizes": [
@@ -13688,7 +13646,7 @@
         {
           "size": "S",
           "carrito": 5,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 3
         },
@@ -13707,7 +13665,7 @@
           "bariloche": 0
         }
       ],
-      "total": 34
+      "total": 33
     }
   },
   {
@@ -13753,7 +13711,7 @@
       "sizes": [
         {
           "size": "L",
-          "carrito": 6,
+          "carrito": 5,
           "local": 2,
           "rio": 2,
           "bariloche": 4
@@ -13767,7 +13725,7 @@
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 3,
           "local": 2,
           "rio": 0,
           "bariloche": 3
@@ -13800,10 +13758,10 @@
     "discount": 0.4,
     "image": "assets/44492ASDM.jpg",
     "stock": {
-      "carrito": 10,
+      "carrito": 9,
       "local": 8,
       "rio": 0,
-      "bariloche": 7,
+      "bariloche": 6,
       "sizes": [
         {
           "size": "L",
@@ -13821,10 +13779,10 @@
         },
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 3,
           "local": 1,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "XL",
@@ -13841,7 +13799,7 @@
           "bariloche": 1
         }
       ],
-      "total": 25
+      "total": 23
     }
   },
   {
@@ -13854,10 +13812,10 @@
     "discount": 0.4,
     "image": "assets/44492LMBE.jpg",
     "stock": {
-      "carrito": 26,
+      "carrito": 25,
       "local": 20,
       "rio": 0,
-      "bariloche": 22,
+      "bariloche": 20,
       "sizes": [
         {
           "size": "L",
@@ -13868,7 +13826,7 @@
         },
         {
           "size": "M",
-          "carrito": 6,
+          "carrito": 5,
           "local": 1,
           "rio": 0,
           "bariloche": 6
@@ -13878,7 +13836,7 @@
           "carrito": 7,
           "local": 4,
           "rio": 0,
-          "bariloche": 5
+          "bariloche": 4
         },
         {
           "size": "XL",
@@ -13892,10 +13850,10 @@
           "carrito": 4,
           "local": 2,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         }
       ],
-      "total": 68
+      "total": 65
     }
   },
   {
@@ -14215,8 +14173,8 @@
     "discount": 0.4,
     "image": "assets/45180FEA.jpg",
     "stock": {
-      "carrito": 5,
-      "local": 9,
+      "carrito": 11,
+      "local": 8,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -14229,8 +14187,8 @@
         },
         {
           "size": "XL",
-          "carrito": 1,
-          "local": 3,
+          "carrito": 7,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -14242,7 +14200,7 @@
           "bariloche": 0
         }
       ],
-      "total": 14
+      "total": 19
     }
   },
   {
@@ -14306,20 +14264,20 @@
     "discount": 0.4,
     "image": "assets/45185FEA.jpg",
     "stock": {
-      "carrito": 2,
+      "carrito": 3,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 2
+      "total": 3
     }
   },
   {
@@ -14496,19 +14454,12 @@
     "image": "assets/45235DSNX.jpg",
     "stock": {
       "carrito": 0,
-      "local": 3,
+      "local": 2,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "M",
           "carrito": 0,
           "local": 1,
           "rio": 0,
@@ -14522,7 +14473,7 @@
           "bariloche": 0
         }
       ],
-      "total": 3
+      "total": 2
     }
   },
   {
@@ -14588,14 +14539,14 @@
     "image": "assets/45310CHLE.jpg",
     "stock": {
       "carrito": 7,
-      "local": 12,
+      "local": 10,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 4,
-          "local": 6,
+          "local": 5,
           "rio": 0,
           "bariloche": 0
         },
@@ -14609,12 +14560,12 @@
         {
           "size": "XL",
           "carrito": 3,
-          "local": 5,
+          "local": 4,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 19
+      "total": 17
     }
   },
   {
@@ -14627,7 +14578,7 @@
     "discount": 0.4,
     "image": "assets/45310SBLX.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 3,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -14641,13 +14592,13 @@
         },
         {
           "size": "XXL",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 4
+      "total": 3
     }
   },
   {
@@ -14894,10 +14845,10 @@
     "discount": 0.4,
     "image": "assets/45690PNGX.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 5,
       "local": 10,
       "rio": 0,
-      "bariloche": 7,
+      "bariloche": 6,
       "sizes": [
         {
           "size": "L",
@@ -14914,11 +14865,18 @@
           "bariloche": 2
         },
         {
+          "size": "S",
+          "carrito": 0,
+          "local": 1,
+          "rio": 0,
+          "bariloche": 0
+        },
+        {
           "size": "XL",
           "carrito": 1,
           "local": 6,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "XXL",
@@ -14988,7 +14946,7 @@
     "discount": 0.4,
     "image": "assets/45760FGX.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 7,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -15002,13 +14960,13 @@
         },
         {
           "size": "XXL",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 7
     }
   },
   {
@@ -15047,8 +15005,8 @@
     "discount": 0.4,
     "image": "assets/45765SBLX.jpg",
     "stock": {
-      "carrito": 49,
-      "local": 17,
+      "carrito": 47,
+      "local": 14,
       "rio": 0,
       "bariloche": 17,
       "sizes": [
@@ -15061,21 +15019,21 @@
         },
         {
           "size": "M",
-          "carrito": 14,
-          "local": 4,
+          "carrito": 13,
+          "local": 3,
           "rio": 0,
           "bariloche": 5
         },
         {
           "size": "S",
           "carrito": 10,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 2
         },
         {
           "size": "XL",
-          "carrito": 10,
+          "carrito": 9,
           "local": 5,
           "rio": 0,
           "bariloche": 5
@@ -15083,12 +15041,12 @@
         {
           "size": "XS",
           "carrito": 3,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 3
         }
       ],
-      "total": 83
+      "total": 78
     }
   },
   {
@@ -15101,7 +15059,7 @@
     "discount": 0.4,
     "image": "assets/45765SINY.jpg",
     "stock": {
-      "carrito": 5,
+      "carrito": 4,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -15115,13 +15073,13 @@
         },
         {
           "size": "XL",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 5
+      "total": 4
     }
   },
   {
@@ -15222,7 +15180,7 @@
     "discount": 0.3,
     "image": "assets/48057TRBN.jpg",
     "stock": {
-      "carrito": 1,
+      "carrito": 2,
       "local": 3,
       "rio": 0,
       "bariloche": 0,
@@ -15236,7 +15194,7 @@
         },
         {
           "size": "M",
-          "carrito": 0,
+          "carrito": 1,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -15249,7 +15207,7 @@
           "bariloche": 0
         }
       ],
-      "total": 4
+      "total": 5
     }
   },
   {
@@ -15406,20 +15364,12 @@
     "discount": 0.4,
     "image": "assets/48490NUVG.jpg",
     "stock": {
-      "carrito": 2,
+      "carrito": 0,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
-      "sizes": [
-        {
-          "size": "L",
-          "carrito": 2,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        }
-      ],
-      "total": 2
+      "total": 0,
+      "sizes": []
     }
   },
   {
@@ -15562,19 +15512,19 @@
     "image": "assets/48546PWBN.jpg",
     "stock": {
       "carrito": 0,
-      "local": 3,
+      "local": 2,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "ALL",
           "carrito": 0,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 3
+      "total": 2
     }
   },
   {
@@ -15780,7 +15730,7 @@
     "discount": 0.4,
     "image": "assets/51025CHMR.jpg",
     "stock": {
-      "carrito": 21,
+      "carrito": 19,
       "local": 24,
       "rio": 0,
       "bariloche": 0,
@@ -15794,15 +15744,15 @@
         },
         {
           "size": "M",
-          "carrito": 6,
+          "carrito": 5,
           "local": 5,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 5,
-          "local": 5,
+          "carrito": 4,
+          "local": 6,
           "rio": 0,
           "bariloche": 0
         },
@@ -15816,12 +15766,12 @@
         {
           "size": "XS",
           "carrito": 3,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 45
+      "total": 43
     }
   },
   {
@@ -15835,7 +15785,7 @@
     "image": "assets/51025DMGO.jpg",
     "stock": {
       "carrito": 17,
-      "local": 14,
+      "local": 11,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -15849,14 +15799,14 @@
         {
           "size": "M",
           "carrito": 5,
-          "local": 4,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
           "carrito": 0,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -15875,7 +15825,7 @@
           "bariloche": 0
         }
       ],
-      "total": 31
+      "total": 28
     }
   },
   {
@@ -16070,7 +16020,7 @@
     "image": "assets/51095PNGR.jpg",
     "stock": {
       "carrito": 21,
-      "local": 23,
+      "local": 22,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -16105,12 +16055,12 @@
         {
           "size": "XS",
           "carrito": 4,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 44
+      "total": 43
     }
   },
   {
@@ -16123,7 +16073,7 @@
     "discount": 0.4,
     "image": "assets/52020BCW.jpg",
     "stock": {
-      "carrito": 28,
+      "carrito": 27,
       "local": 7,
       "rio": 0,
       "bariloche": 7,
@@ -16137,7 +16087,7 @@
         },
         {
           "size": "M",
-          "carrito": 6,
+          "carrito": 5,
           "local": -1,
           "rio": 0,
           "bariloche": 1
@@ -16157,7 +16107,7 @@
           "bariloche": 2
         }
       ],
-      "total": 42
+      "total": 41
     }
   },
   {
@@ -16272,7 +16222,7 @@
     "image": "assets/52020NGRY.jpg",
     "stock": {
       "carrito": 50,
-      "local": 19,
+      "local": 17,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
@@ -16293,7 +16243,7 @@
         {
           "size": "S",
           "carrito": 7,
-          "local": 3,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -16312,7 +16262,7 @@
           "bariloche": 0
         }
       ],
-      "total": 70
+      "total": 68
     }
   },
   {
@@ -16472,14 +16422,14 @@
     "discount": 0.3,
     "image": "assets/52183DRST.jpg",
     "stock": {
-      "carrito": 23,
-      "local": 18,
+      "carrito": 22,
+      "local": 17,
       "rio": 4,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 6,
+          "carrito": 5,
           "local": 7,
           "rio": 2,
           "bariloche": 0
@@ -16487,7 +16437,7 @@
         {
           "size": "M",
           "carrito": 5,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -16513,7 +16463,7 @@
           "bariloche": 0
         }
       ],
-      "total": 45
+      "total": 43
     }
   },
   {
@@ -16526,7 +16476,7 @@
     "discount": 0.35,
     "image": "assets/52183MIGC.jpg",
     "stock": {
-      "carrito": 26,
+      "carrito": 25,
       "local": 27,
       "rio": 4,
       "bariloche": 0,
@@ -16547,7 +16497,7 @@
         },
         {
           "size": "S",
-          "carrito": 3,
+          "carrito": 2,
           "local": 5,
           "rio": 0,
           "bariloche": 0
@@ -16567,7 +16517,7 @@
           "bariloche": 0
         }
       ],
-      "total": 57
+      "total": 56
     }
   },
   {
@@ -16580,14 +16530,14 @@
     "discount": 0.35,
     "image": "assets/52198CSC.jpg",
     "stock": {
-      "carrito": 15,
+      "carrito": 14,
       "local": 1,
       "rio": 2,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 4,
+          "carrito": 3,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -16614,7 +16564,7 @@
           "bariloche": 0
         }
       ],
-      "total": 18
+      "total": 17
     }
   },
   {
@@ -17111,7 +17061,7 @@
     "discount": 0.5,
     "image": "assets/52430PLGY.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -17125,7 +17075,7 @@
         },
         {
           "size": "S",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -17138,7 +17088,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -17151,7 +17101,7 @@
     "discount": 0.5,
     "image": "assets/52430WHI.jpg",
     "stock": {
-      "carrito": 32,
+      "carrito": 31,
       "local": 0,
       "rio": 2,
       "bariloche": 0,
@@ -17165,7 +17115,7 @@
         },
         {
           "size": "M",
-          "carrito": 9,
+          "carrito": 8,
           "local": 0,
           "rio": 1,
           "bariloche": 0
@@ -17192,7 +17142,7 @@
           "bariloche": 0
         }
       ],
-      "total": 34
+      "total": 33
     }
   },
   {
@@ -17261,14 +17211,14 @@
     "stock": {
       "carrito": 34,
       "local": 25,
-      "rio": 2,
+      "rio": 3,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 8,
           "local": 7,
-          "rio": 0,
+          "rio": 1,
           "bariloche": 0
         },
         {
@@ -17300,7 +17250,7 @@
           "bariloche": 0
         }
       ],
-      "total": 61
+      "total": 62
     }
   },
   {
@@ -17423,14 +17373,14 @@
     "stock": {
       "carrito": 21,
       "local": 0,
-      "rio": 4,
+      "rio": 2,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 5,
           "local": 0,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 0
         },
         {
@@ -17451,7 +17401,7 @@
           "size": "XL",
           "carrito": 4,
           "local": 0,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 0
         },
         {
@@ -17462,7 +17412,7 @@
           "bariloche": 0
         }
       ],
-      "total": 25
+      "total": 23
     }
   },
   {
@@ -17760,20 +17710,12 @@
     "discount": 0.3,
     "image": "assets/53251FMBY.jpg",
     "stock": {
-      "carrito": 1,
+      "carrito": 0,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
-      "sizes": [
-        {
-          "size": "L",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        }
-      ],
-      "total": 1
+      "total": 0,
+      "sizes": []
     }
   },
   {
@@ -18517,17 +18459,10 @@
     "image": "assets/53385TNGR.jpg",
     "stock": {
       "carrito": 3,
-      "local": 2,
+      "local": 1,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "L",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "XL",
           "carrito": 3,
@@ -18536,7 +18471,7 @@
           "bariloche": 0
         }
       ],
-      "total": 5
+      "total": 4
     }
   },
   {
@@ -18549,14 +18484,14 @@
     "discount": 0.3,
     "image": "assets/53385UTB.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 6,
       "local": 1,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 0,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -18569,7 +18504,7 @@
           "bariloche": 0
         }
       ],
-      "total": 9
+      "total": 7
     }
   },
   {
@@ -18582,14 +18517,14 @@
     "discount": 0.3,
     "image": "assets/53385WKLG.jpg",
     "stock": {
-      "carrito": 13,
+      "carrito": 12,
       "local": 4,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -18609,7 +18544,7 @@
           "bariloche": 0
         }
       ],
-      "total": 17
+      "total": 16
     }
   },
   {
@@ -18622,14 +18557,14 @@
     "discount": 0.3,
     "image": "assets/53390HLDM.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 3,
       "local": 0,
       "rio": 0,
       "bariloche": 9,
       "sizes": [
         {
           "size": "L",
-          "carrito": 1,
+          "carrito": 0,
           "local": 0,
           "rio": 0,
           "bariloche": 3
@@ -18656,7 +18591,7 @@
           "bariloche": 3
         }
       ],
-      "total": 13
+      "total": 12
     }
   },
   {
@@ -18669,14 +18604,14 @@
     "discount": 0.3,
     "image": "assets/53390SBDY.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 7,
       "local": 3,
       "rio": 0,
       "bariloche": 1,
       "sizes": [
         {
           "size": "L",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -18696,7 +18631,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -19002,8 +18937,8 @@
     "discount": 0.4,
     "image": "assets/55050COI.jpg",
     "stock": {
-      "carrito": 41,
-      "local": 39,
+      "carrito": 39,
+      "local": 38,
       "rio": 4,
       "bariloche": 0,
       "sizes": [
@@ -19024,13 +18959,13 @@
         {
           "size": "32",
           "carrito": 5,
-          "local": 7,
+          "local": 6,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "33",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -19065,13 +19000,13 @@
         },
         {
           "size": "40",
-          "carrito": 4,
+          "carrito": 3,
           "local": 5,
           "rio": 1,
           "bariloche": 0
         }
       ],
-      "total": 84
+      "total": 81
     }
   },
   {
@@ -19163,7 +19098,7 @@
     "image": "assets/55255CSC.jpg",
     "stock": {
       "carrito": 2,
-      "local": 11,
+      "local": 9,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -19189,21 +19124,14 @@
           "bariloche": 0
         },
         {
-          "size": "35",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "36",
           "carrito": 0,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 11
     }
   },
   {
@@ -19267,14 +19195,14 @@
     "discount": 0.3,
     "image": "assets/55765COI.jpg",
     "stock": {
-      "carrito": 33,
+      "carrito": 31,
       "local": 28,
       "rio": 3,
       "bariloche": 13,
       "sizes": [
         {
           "size": "L",
-          "carrito": 6,
+          "carrito": 5,
           "local": 6,
           "rio": 1,
           "bariloche": 3
@@ -19288,7 +19216,7 @@
         },
         {
           "size": "S",
-          "carrito": 7,
+          "carrito": 6,
           "local": 6,
           "rio": 0,
           "bariloche": 1
@@ -19308,7 +19236,7 @@
           "bariloche": 1
         }
       ],
-      "total": 77
+      "total": 75
     }
   },
   {
@@ -19357,7 +19285,7 @@
       "carrito": 2,
       "local": 16,
       "rio": 0,
-      "bariloche": 11,
+      "bariloche": 10,
       "sizes": [
         {
           "size": "30",
@@ -19381,13 +19309,6 @@
           "bariloche": 2
         },
         {
-          "size": "34",
-          "carrito": 0,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 1
-        },
-        {
           "size": "36",
           "carrito": 0,
           "local": 7,
@@ -19409,7 +19330,7 @@
           "bariloche": 0
         }
       ],
-      "total": 29
+      "total": 28
     }
   },
   {
@@ -19838,14 +19759,14 @@
     "discount": 0.4,
     "image": "assets/56491FGE.jpg",
     "stock": {
-      "carrito": 43,
+      "carrito": 38,
       "local": 37,
       "rio": 6,
       "bariloche": 0,
       "sizes": [
         {
           "size": "30",
-          "carrito": 4,
+          "carrito": 3,
           "local": 5,
           "rio": 1,
           "bariloche": 0
@@ -19859,7 +19780,7 @@
         },
         {
           "size": "32",
-          "carrito": 8,
+          "carrito": 7,
           "local": 4,
           "rio": 2,
           "bariloche": 0
@@ -19887,14 +19808,14 @@
         },
         {
           "size": "36",
-          "carrito": 10,
+          "carrito": 8,
           "local": 4,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "38",
-          "carrito": 9,
+          "carrito": 8,
           "local": 6,
           "rio": 2,
           "bariloche": 0
@@ -19907,7 +19828,7 @@
           "bariloche": 0
         }
       ],
-      "total": 86
+      "total": 81
     }
   },
   {
@@ -19920,7 +19841,7 @@
     "discount": 0.4,
     "image": "assets/56491MJVK.jpg",
     "stock": {
-      "carrito": 34,
+      "carrito": 31,
       "local": 35,
       "rio": 3,
       "bariloche": 0,
@@ -19962,7 +19883,7 @@
         },
         {
           "size": "35",
-          "carrito": 2,
+          "carrito": 1,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -19976,20 +19897,20 @@
         },
         {
           "size": "38",
-          "carrito": 4,
+          "carrito": 3,
           "local": 6,
           "rio": 2,
           "bariloche": 0
         },
         {
           "size": "40",
-          "carrito": 4,
+          "carrito": 3,
           "local": 3,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 72
+      "total": 69
     }
   },
   {
@@ -20110,7 +20031,7 @@
       "sizes": [
         {
           "size": "10",
-          "carrito": 0,
+          "carrito": 1,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -20138,7 +20059,7 @@
         },
         {
           "size": "8",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -20379,7 +20300,7 @@
     "discount": 0.5,
     "image": "assets/56996INBK.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 20,
       "local": 0,
       "rio": 4,
       "bariloche": 0,
@@ -20393,7 +20314,7 @@
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 5,
           "local": 0,
           "rio": 1,
           "bariloche": 0
@@ -20420,7 +20341,7 @@
           "bariloche": 0
         }
       ],
-      "total": 21
+      "total": 24
     }
   },
   {
@@ -20487,14 +20408,14 @@
     "discount": 0.5,
     "image": "assets/57022BLK.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 14,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -20507,7 +20428,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 14
     }
   },
   {
@@ -20765,7 +20686,7 @@
     "discount": 0.5,
     "image": "assets/57059PIMR.jpg",
     "stock": {
-      "carrito": 13,
+      "carrito": 14,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -20779,7 +20700,7 @@
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -20806,7 +20727,7 @@
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 14
     }
   },
   {
@@ -20891,7 +20812,7 @@
     "discount": 0.5,
     "image": "assets/57200BUGR.jpg",
     "stock": {
-      "carrito": 16,
+      "carrito": 18,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -20905,7 +20826,7 @@
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -20932,7 +20853,7 @@
           "bariloche": 0
         }
       ],
-      "total": 16
+      "total": 18
     }
   },
   {
@@ -21010,7 +20931,7 @@
     "discount": 0.4,
     "image": "assets/57230MJVK.jpg",
     "stock": {
-      "carrito": 29,
+      "carrito": 28,
       "local": 0,
       "rio": 5,
       "bariloche": 0,
@@ -21032,13 +20953,6 @@
         {
           "size": "32",
           "carrito": 2,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "33",
-          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -21079,7 +20993,7 @@
           "bariloche": 0
         }
       ],
-      "total": 34
+      "total": 33
     }
   },
   {
@@ -21179,14 +21093,14 @@
     "discount": 0.4,
     "image": "assets/57602LMBE.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 0,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -21206,7 +21120,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 9
     }
   },
   {
@@ -21549,14 +21463,14 @@
         },
         {
           "size": "31",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "34",
-          "carrito": 1,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -21701,14 +21615,14 @@
     "image": "assets/58035BLK.jpg",
     "stock": {
       "carrito": 30,
-      "local": 1,
+      "local": 0,
       "rio": 4,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 1,
-          "local": 1,
+          "local": 0,
           "rio": 2,
           "bariloche": 0
         },
@@ -21727,7 +21641,7 @@
           "bariloche": 0
         }
       ],
-      "total": 35
+      "total": 34
     }
   },
   {
@@ -21820,11 +21734,18 @@
     "discount": 0.4,
     "image": "assets/58035GPCC.jpg",
     "stock": {
-      "carrito": 5,
+      "carrito": 6,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
+        {
+          "size": "L",
+          "carrito": 1,
+          "local": 0,
+          "rio": 0,
+          "bariloche": 0
+        },
         {
           "size": "XL",
           "carrito": 5,
@@ -21833,7 +21754,7 @@
           "bariloche": 0
         }
       ],
-      "total": 5
+      "total": 6
     }
   },
   {
@@ -21846,14 +21767,14 @@
     "discount": 0.4,
     "image": "assets/58035LAGB.jpg",
     "stock": {
-      "carrito": 31,
+      "carrito": 30,
       "local": 0,
       "rio": 6,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 8,
+          "carrito": 7,
           "local": 0,
           "rio": 3,
           "bariloche": 0
@@ -21880,7 +21801,7 @@
           "bariloche": 0
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -21894,11 +21815,19 @@
     "image": "assets/58035TIDB.jpg",
     "stock": {
       "carrito": 0,
-      "local": 0,
+      "local": 1,
       "rio": 0,
       "bariloche": 0,
-      "total": 0,
-      "sizes": []
+      "sizes": [
+        {
+          "size": "L",
+          "carrito": 0,
+          "local": 1,
+          "rio": 0,
+          "bariloche": 0
+        }
+      ],
+      "total": 1
     }
   },
   {
@@ -21951,7 +21880,7 @@
     "discount": 0.4,
     "image": "assets/58176GTMA.jpg",
     "stock": {
-      "carrito": 15,
+      "carrito": 14,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -21965,7 +21894,7 @@
         },
         {
           "size": "M",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -21985,7 +21914,7 @@
           "bariloche": 0
         }
       ],
-      "total": 15
+      "total": 14
     }
   },
   {
@@ -22064,7 +21993,7 @@
     "discount": 0.4,
     "image": "assets/60093NENA.jpg",
     "stock": {
-      "carrito": 10,
+      "carrito": 9,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -22077,13 +22006,6 @@
           "bariloche": 0
         },
         {
-          "size": "18M",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "6M",
           "carrito": 7,
           "local": 0,
@@ -22091,7 +22013,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 9
     }
   },
   {
@@ -22328,15 +22250,15 @@
     "discount": 0.4,
     "image": "assets/60155WAVB.jpg",
     "stock": {
-      "carrito": 6,
-      "local": 15,
+      "carrito": 7,
+      "local": 13,
       "rio": 2,
       "bariloche": 3,
       "sizes": [
         {
           "size": "12M",
           "carrito": 1,
-          "local": 4,
+          "local": 3,
           "rio": 1,
           "bariloche": 2
         },
@@ -22350,7 +22272,7 @@
         {
           "size": "2T",
           "carrito": 0,
-          "local": 4,
+          "local": 3,
           "rio": 1,
           "bariloche": 0
         },
@@ -22369,7 +22291,7 @@
           "bariloche": -1
         }
       ],
-      "total": 26
+      "total": 25
     }
   },
   {
@@ -22666,7 +22588,7 @@
     "discount": 0.4,
     "image": "assets/60311PIMR.jpg",
     "stock": {
-      "carrito": 13,
+      "carrito": 11,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -22694,13 +22616,13 @@
         },
         {
           "size": "4T",
-          "carrito": 3,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 11
     }
   },
   {
@@ -23137,20 +23059,12 @@
     "discount": 0.4,
     "image": "assets/60520SPRB.jpg",
     "stock": {
-      "carrito": 1,
+      "carrito": 0,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
-      "sizes": [
-        {
-          "size": "6M",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        }
-      ],
-      "total": 1
+      "total": 0,
+      "sizes": []
     }
   },
   {
@@ -23203,7 +23117,7 @@
     "discount": 0.4,
     "image": "assets/60521BLMG.jpg",
     "stock": {
-      "carrito": 37,
+      "carrito": 36,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -23245,13 +23159,13 @@
         },
         {
           "size": "5T",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -23325,14 +23239,14 @@
     "discount": 0.4,
     "image": "assets/60521PLNP.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 16,
       "local": 11,
       "rio": 0,
       "bariloche": 8,
       "sizes": [
         {
           "size": "12M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -23380,7 +23294,7 @@
           "bariloche": 1
         }
       ],
-      "total": 36
+      "total": 35
     }
   },
   {
@@ -23500,17 +23414,10 @@
     "image": "assets/60560SNYP.jpg",
     "stock": {
       "carrito": 9,
-      "local": 1,
+      "local": 0,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "12M",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "3M",
           "carrito": 4,
@@ -23526,7 +23433,7 @@
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 10
     }
   },
   {
@@ -23706,14 +23613,14 @@
     "discount": 0.4,
     "image": "assets/60770SMDB.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 13,
       "local": 8,
       "rio": 0,
       "bariloche": 3,
       "sizes": [
         {
           "size": "18M",
-          "carrito": 5,
+          "carrito": 4,
           "local": 1,
           "rio": 0,
           "bariloche": 1
@@ -23747,7 +23654,7 @@
           "bariloche": 0
         }
       ],
-      "total": 25
+      "total": 24
     }
   },
   {
@@ -23760,14 +23667,14 @@
     "discount": 0.4,
     "image": "assets/60780CIVL.jpg",
     "stock": {
-      "carrito": 23,
+      "carrito": 21,
       "local": 0,
-      "rio": 0,
+      "rio": 1,
       "bariloche": 0,
       "sizes": [
         {
           "size": "12M",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -23795,7 +23702,7 @@
         },
         {
           "size": "4T",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -23804,11 +23711,11 @@
           "size": "5T",
           "carrito": 3,
           "local": 0,
-          "rio": 0,
+          "rio": 1,
           "bariloche": 0
         }
       ],
-      "total": 23
+      "total": 22
     }
   },
   {
@@ -23821,14 +23728,14 @@
     "discount": 0.4,
     "image": "assets/60780LTPG.jpg",
     "stock": {
-      "carrito": 20,
+      "carrito": 19,
       "local": 21,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "12M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 4,
           "rio": 0,
           "bariloche": 0
@@ -23869,7 +23776,7 @@
           "bariloche": 0
         }
       ],
-      "total": 41
+      "total": 40
     }
   },
   {
@@ -24030,7 +23937,7 @@
     "discount": 0.4,
     "image": "assets/60900FNNA.jpg",
     "stock": {
-      "carrito": 25,
+      "carrito": 24,
       "local": 23,
       "rio": 4,
       "bariloche": 0,
@@ -24044,7 +23951,7 @@
         },
         {
           "size": "18M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 5,
           "rio": 1,
           "bariloche": 0
@@ -24085,7 +23992,7 @@
           "bariloche": 0
         }
       ],
-      "total": 52
+      "total": 51
     }
   },
   {
@@ -24251,9 +24158,9 @@
     "discount": 0.4,
     "image": "assets/60970PGEB.jpg",
     "stock": {
-      "carrito": 23,
+      "carrito": 21,
       "local": 27,
-      "rio": 4,
+      "rio": 3,
       "bariloche": 0,
       "sizes": [
         {
@@ -24274,7 +24181,7 @@
           "size": "2T",
           "carrito": 4,
           "local": 3,
-          "rio": 1,
+          "rio": 0,
           "bariloche": 0
         },
         {
@@ -24293,7 +24200,7 @@
         },
         {
           "size": "5T",
-          "carrito": 3,
+          "carrito": 1,
           "local": 4,
           "rio": 0,
           "bariloche": 0
@@ -24306,7 +24213,7 @@
           "bariloche": 0
         }
       ],
-      "total": 54
+      "total": 51
     }
   },
   {
@@ -24319,8 +24226,8 @@
     "discount": 0.4,
     "image": "assets/60970PLNP.jpg",
     "stock": {
-      "carrito": 12,
-      "local": 21,
+      "carrito": 10,
+      "local": 18,
       "rio": 1,
       "bariloche": 11,
       "sizes": [
@@ -24341,7 +24248,7 @@
         {
           "size": "2T",
           "carrito": 1,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 1
         },
@@ -24354,7 +24261,7 @@
         },
         {
           "size": "4T",
-          "carrito": 2,
+          "carrito": 1,
           "local": 2,
           "rio": 0,
           "bariloche": 1
@@ -24362,19 +24269,19 @@
         {
           "size": "5T",
           "carrito": 0,
-          "local": 2,
+          "local": 0,
           "rio": 0,
           "bariloche": 2
         },
         {
           "size": "6M",
-          "carrito": 3,
+          "carrito": 2,
           "local": 4,
           "rio": 1,
           "bariloche": 1
         }
       ],
-      "total": 45
+      "total": 40
     }
   },
   {
@@ -24775,7 +24682,7 @@
     "image": "assets/61007PELP.jpg",
     "stock": {
       "carrito": 15,
-      "local": 16,
+      "local": 15,
       "rio": 0,
       "bariloche": 10,
       "sizes": [
@@ -24789,7 +24696,7 @@
         {
           "size": "18M",
           "carrito": 4,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 2
         },
@@ -24822,7 +24729,7 @@
           "bariloche": 2
         }
       ],
-      "total": 41
+      "total": 40
     }
   },
   {
@@ -24986,7 +24893,7 @@
     "image": "assets/61146LWNA.jpg",
     "stock": {
       "carrito": 7,
-      "local": 6,
+      "local": 5,
       "rio": 0,
       "bariloche": 2,
       "sizes": [
@@ -25005,13 +24912,6 @@
           "bariloche": 2
         },
         {
-          "size": "4T",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "5T",
           "carrito": 1,
           "local": 3,
@@ -25019,7 +24919,7 @@
           "bariloche": 0
         }
       ],
-      "total": 15
+      "total": 14
     }
   },
   {
@@ -25138,7 +25038,7 @@
     "discount": 0.4,
     "image": "assets/61256AACL.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 15,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -25159,7 +25059,7 @@
         },
         {
           "size": "3T",
-          "carrito": 2,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -25172,7 +25072,7 @@
           "bariloche": 0
         }
       ],
-      "total": 14
+      "total": 15
     }
   },
   {
@@ -25385,7 +25285,7 @@
     "discount": 0.4,
     "image": "assets/61372WATL.jpg",
     "stock": {
-      "carrito": 21,
+      "carrito": 20,
       "local": 15,
       "rio": 0,
       "bariloche": 0,
@@ -25427,7 +25327,7 @@
         },
         {
           "size": "5T",
-          "carrito": 4,
+          "carrito": 3,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -25440,7 +25340,7 @@
           "bariloche": 0
         }
       ],
-      "total": 36
+      "total": 35
     }
   },
   {
@@ -25514,7 +25414,7 @@
     "discount": 0.4,
     "image": "assets/61480PRLA.jpg",
     "stock": {
-      "carrito": 20,
+      "carrito": 19,
       "local": 0,
       "rio": 1,
       "bariloche": 0,
@@ -25541,13 +25441,6 @@
           "bariloche": 0
         },
         {
-          "size": "3T",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "4T",
           "carrito": 4,
           "local": 0,
@@ -25562,7 +25455,7 @@
           "bariloche": 0
         }
       ],
-      "total": 21
+      "total": 20
     }
   },
   {
@@ -25655,7 +25548,7 @@
     "discount": 0.4,
     "image": "assets/62148AFNP.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -25676,7 +25569,7 @@
         },
         {
           "size": "XL",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -25689,7 +25582,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -25702,20 +25595,13 @@
     "discount": 0.4,
     "image": "assets/62148GTRN.jpg",
     "stock": {
-      "carrito": 10,
+      "carrito": 7,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 3,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "M",
           "carrito": 2,
           "local": 0,
           "rio": 0,
@@ -25736,7 +25622,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 7
     }
   },
   {
@@ -25749,7 +25635,7 @@
     "discount": 0.4,
     "image": "assets/62148NENA.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 6,
       "local": 1,
       "rio": 0,
       "bariloche": 0,
@@ -25763,7 +25649,7 @@
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 1,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -25776,7 +25662,7 @@
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 7
     }
   },
   {
@@ -26082,8 +25968,8 @@
     "discount": 0.4,
     "image": "assets/62380TLSA.jpg",
     "stock": {
-      "carrito": 7,
-      "local": 11,
+      "carrito": 6,
+      "local": 10,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -26096,7 +25982,7 @@
         },
         {
           "size": "M",
-          "carrito": 1,
+          "carrito": 0,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -26104,7 +25990,7 @@
         {
           "size": "S",
           "carrito": 1,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -26123,7 +26009,7 @@
           "bariloche": 0
         }
       ],
-      "total": 18
+      "total": 16
     }
   },
   {
@@ -26136,7 +26022,7 @@
     "discount": 0.4,
     "image": "assets/62390BLSA.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 13,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -26164,13 +26050,13 @@
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 13
     }
   },
   {
@@ -26216,8 +26102,8 @@
     "discount": 0.4,
     "image": "assets/62390LAGB.jpg",
     "stock": {
-      "carrito": 4,
-      "local": 4,
+      "carrito": 3,
+      "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -26230,8 +26116,8 @@
         },
         {
           "size": "M",
-          "carrito": 1,
-          "local": 3,
+          "carrito": 0,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -26243,7 +26129,7 @@
           "bariloche": 0
         }
       ],
-      "total": 8
+      "total": 6
     }
   },
   {
@@ -26336,14 +26222,14 @@
     "discount": 0.3,
     "image": "assets/64270BLK.jpg",
     "stock": {
-      "carrito": 31,
+      "carrito": 30,
       "local": 0,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -26370,7 +26256,7 @@
           "bariloche": 0
         }
       ],
-      "total": 32
+      "total": 31
     }
   },
   {
@@ -26383,14 +26269,14 @@
     "discount": 0.3,
     "image": "assets/64270NENA.jpg",
     "stock": {
-      "carrito": 22,
+      "carrito": 23,
       "local": 1,
       "rio": 2,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 0,
+          "carrito": 1,
           "local": 0,
           "rio": 1,
           "bariloche": 0
@@ -26417,7 +26303,7 @@
           "bariloche": 0
         }
       ],
-      "total": 25
+      "total": 26
     }
   },
   {
@@ -26463,14 +26349,14 @@
     "discount": 0.3,
     "image": "assets/64755BLK.jpg",
     "stock": {
-      "carrito": 16,
-      "local": 12,
+      "carrito": 14,
+      "local": 11,
       "rio": 0,
       "bariloche": 11,
       "sizes": [
         {
           "size": "L",
-          "carrito": 3,
+          "carrito": 1,
           "local": 4,
           "rio": 0,
           "bariloche": 1
@@ -26485,7 +26371,7 @@
         {
           "size": "S",
           "carrito": 6,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 3
         },
@@ -26504,7 +26390,7 @@
           "bariloche": 2
         }
       ],
-      "total": 39
+      "total": 36
     }
   },
   {
@@ -26517,7 +26403,7 @@
     "discount": 0.3,
     "image": "assets/64755NENA.jpg",
     "stock": {
-      "carrito": 21,
+      "carrito": 18,
       "local": 11,
       "rio": 1,
       "bariloche": 0,
@@ -26531,14 +26417,14 @@
         },
         {
           "size": "M",
-          "carrito": 5,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 3,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -26558,7 +26444,7 @@
           "bariloche": 0
         }
       ],
-      "total": 33
+      "total": 30
     }
   },
   {
@@ -26626,7 +26512,7 @@
     "image": "assets/64770BLK.jpg",
     "stock": {
       "carrito": 2,
-      "local": 7,
+      "local": 6,
       "rio": 0,
       "bariloche": 11,
       "sizes": [
@@ -26654,7 +26540,7 @@
         {
           "size": "XL",
           "carrito": 0,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 1
         },
@@ -26666,7 +26552,7 @@
           "bariloche": 3
         }
       ],
-      "total": 20
+      "total": 19
     }
   },
   {
@@ -26679,7 +26565,7 @@
     "discount": 0.3,
     "image": "assets/64770NENA.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 10,
       "local": 9,
       "rio": 0,
       "bariloche": 0,
@@ -26700,7 +26586,7 @@
         },
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 3,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -26720,7 +26606,7 @@
           "bariloche": 0
         }
       ],
-      "total": 20
+      "total": 19
     }
   },
   {
@@ -26733,14 +26619,14 @@
     "discount": 0.4,
     "image": "assets/64810TMBL.jpg",
     "stock": {
-      "carrito": 27,
+      "carrito": 25,
       "local": 5,
       "rio": 0,
-      "bariloche": 20,
+      "bariloche": 19,
       "sizes": [
         {
           "size": "L",
-          "carrito": 8,
+          "carrito": 7,
           "local": 0,
           "rio": 0,
           "bariloche": 5
@@ -26757,11 +26643,11 @@
           "carrito": 5,
           "local": 3,
           "rio": 0,
-          "bariloche": 4
+          "bariloche": 3
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 1
@@ -26774,7 +26660,7 @@
           "bariloche": 4
         }
       ],
-      "total": 52
+      "total": 49
     }
   },
   {
@@ -26787,22 +26673,22 @@
     "discount": 0.4,
     "image": "assets/65320FGE.jpg",
     "stock": {
-      "carrito": 20,
-      "local": 15,
+      "carrito": 18,
+      "local": 14,
       "rio": 2,
       "bariloche": 13,
       "sizes": [
         {
           "size": "L",
-          "carrito": 5,
+          "carrito": 4,
           "local": 4,
           "rio": 0,
           "bariloche": 3
         },
         {
           "size": "M",
-          "carrito": 4,
-          "local": 3,
+          "carrito": 3,
+          "local": 2,
           "rio": 1,
           "bariloche": 3
         },
@@ -26828,7 +26714,7 @@
           "bariloche": 2
         }
       ],
-      "total": 50
+      "total": 47
     }
   },
   {
@@ -26980,7 +26866,7 @@
     "image": "assets/65465SPRB.jpg",
     "stock": {
       "carrito": 23,
-      "local": 17,
+      "local": 18,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
@@ -27008,7 +26894,7 @@
         {
           "size": "XL",
           "carrito": 4,
-          "local": 4,
+          "local": 5,
           "rio": 0,
           "bariloche": 0
         },
@@ -27020,7 +26906,7 @@
           "bariloche": 0
         }
       ],
-      "total": 41
+      "total": 42
     }
   },
   {
@@ -27033,8 +26919,8 @@
     "discount": 0.3,
     "image": "assets/65465WASR.jpg",
     "stock": {
-      "carrito": 37,
-      "local": 15,
+      "carrito": 36,
+      "local": 14,
       "rio": 0,
       "bariloche": 5,
       "sizes": [
@@ -27054,7 +26940,7 @@
         },
         {
           "size": "S",
-          "carrito": 9,
+          "carrito": 8,
           "local": 2,
           "rio": 0,
           "bariloche": 0
@@ -27062,7 +26948,7 @@
         {
           "size": "XL",
           "carrito": 8,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 1
         },
@@ -27074,7 +26960,7 @@
           "bariloche": 2
         }
       ],
-      "total": 57
+      "total": 55
     }
   },
   {
@@ -27159,7 +27045,7 @@
     "discount": 0.3,
     "image": "assets/65572NUVG.jpg",
     "stock": {
-      "carrito": 3,
+      "carrito": 2,
       "local": 3,
       "rio": 0,
       "bariloche": 6,
@@ -27187,7 +27073,7 @@
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 2
@@ -27200,7 +27086,7 @@
           "bariloche": 2
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -27389,7 +27275,7 @@
     "discount": 0.4,
     "image": "assets/65732NTPL.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 10,
       "rio": 0,
       "bariloche": 6,
@@ -27403,7 +27289,7 @@
         },
         {
           "size": "M",
-          "carrito": 1,
+          "carrito": 0,
           "local": 3,
           "rio": 0,
           "bariloche": 1
@@ -27430,7 +27316,7 @@
           "bariloche": 2
         }
       ],
-      "total": 25
+      "total": 24
     }
   },
   {
@@ -27443,9 +27329,9 @@
     "discount": 0.4,
     "image": "assets/65732STH.jpg",
     "stock": {
-      "carrito": 18,
+      "carrito": 21,
       "local": 16,
-      "rio": 1,
+      "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
@@ -27464,7 +27350,7 @@
         },
         {
           "size": "S",
-          "carrito": 1,
+          "carrito": 4,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -27473,7 +27359,7 @@
           "size": "XL",
           "carrito": 4,
           "local": 3,
-          "rio": 0,
+          "rio": -1,
           "bariloche": 0
         },
         {
@@ -27484,7 +27370,7 @@
           "bariloche": 0
         }
       ],
-      "total": 35
+      "total": 37
     }
   },
   {
@@ -27498,21 +27384,21 @@
     "image": "assets/65732TMBL.jpg",
     "stock": {
       "carrito": 16,
-      "local": 9,
+      "local": 7,
       "rio": 0,
       "bariloche": 3,
       "sizes": [
         {
           "size": "L",
           "carrito": 4,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 1
         },
         {
           "size": "M",
           "carrito": 3,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -27538,7 +27424,7 @@
           "bariloche": 1
         }
       ],
-      "total": 28
+      "total": 26
     }
   },
   {
@@ -27621,20 +27507,20 @@
     "discount": 0.3,
     "image": "assets/66077CYBM.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 3,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "6M",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 4
+      "total": 3
     }
   },
   {
@@ -27807,14 +27693,14 @@
     "discount": 0.3,
     "image": "assets/66555GDNG.jpg",
     "stock": {
-      "carrito": 10,
+      "carrito": 11,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
-          "carrito": 3,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -27827,7 +27713,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 11
     }
   },
   {
@@ -28049,14 +27935,14 @@
     "discount": 0.4,
     "image": "assets/67036AFNP.jpg",
     "stock": {
-      "carrito": 18,
+      "carrito": 19,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 2,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -28077,7 +27963,7 @@
         },
         {
           "size": "XL",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -28090,7 +27976,7 @@
           "bariloche": 0
         }
       ],
-      "total": 18
+      "total": 19
     }
   },
   {
@@ -28449,14 +28335,14 @@
     "discount": 0.4,
     "image": "assets/67806NENA.jpg",
     "stock": {
-      "carrito": 22,
+      "carrito": 21,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
-          "carrito": 6,
+          "carrito": 5,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -28476,7 +28362,7 @@
           "bariloche": 0
         }
       ],
-      "total": 22
+      "total": 21
     }
   },
   {
@@ -28490,7 +28376,7 @@
     "image": "assets/67806WPGA.jpg",
     "stock": {
       "carrito": 21,
-      "local": 0,
+      "local": 1,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -28518,7 +28404,7 @@
         {
           "size": "XL",
           "carrito": 3,
-          "local": 0,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -28530,7 +28416,7 @@
           "bariloche": 0
         }
       ],
-      "total": 21
+      "total": 22
     }
   },
   {
@@ -28576,7 +28462,7 @@
     "discount": 0.4,
     "image": "assets/68075BLYB.jpg",
     "stock": {
-      "carrito": 13,
+      "carrito": 12,
       "local": 12,
       "rio": 0,
       "bariloche": 0,
@@ -28604,7 +28490,7 @@
         },
         {
           "size": "XL",
-          "carrito": 4,
+          "carrito": 3,
           "local": 4,
           "rio": 0,
           "bariloche": 0
@@ -28617,7 +28503,7 @@
           "bariloche": 0
         }
       ],
-      "total": 25
+      "total": 24
     }
   },
   {
@@ -28630,7 +28516,7 @@
     "discount": 0.4,
     "image": "assets/68075NENA.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 7,
       "local": 5,
       "rio": 0,
       "bariloche": 0,
@@ -28644,7 +28530,7 @@
         },
         {
           "size": "M",
-          "carrito": 1,
+          "carrito": 0,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -28671,7 +28557,7 @@
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 12
     }
   },
   {
@@ -28780,18 +28666,11 @@
     "discount": 0.4,
     "image": "assets/68605INBK.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 16,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "L",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "M",
           "carrito": 4,
@@ -28814,7 +28693,7 @@
           "bariloche": 0
         }
       ],
-      "total": 17
+      "total": 16
     }
   },
   {
@@ -28961,21 +28840,21 @@
     "discount": 0.3,
     "image": "assets/68645NENA.jpg",
     "stock": {
-      "carrito": 13,
-      "local": 14,
+      "carrito": 14,
+      "local": 13,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 5,
+          "carrito": 4,
           "local": 5,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 4,
           "local": 4,
           "rio": 0,
           "bariloche": 0
@@ -28990,7 +28869,7 @@
         {
           "size": "XL",
           "carrito": 2,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         }
@@ -29048,7 +28927,7 @@
     "discount": 0.5,
     "image": "assets/75005BSNG.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 16,
       "local": 0,
       "rio": 1,
       "bariloche": 0,
@@ -29062,13 +28941,13 @@
         },
         {
           "size": "XL",
-          "carrito": 14,
+          "carrito": 13,
           "local": 0,
           "rio": 1,
           "bariloche": 0
         }
       ],
-      "total": 18
+      "total": 17
     }
   },
   {
@@ -29081,7 +28960,7 @@
     "discount": 0.5,
     "image": "assets/75005NUVG.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 19,
       "rio": 1,
       "bariloche": 0,
@@ -29102,7 +28981,7 @@
         },
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 3,
           "local": 6,
           "rio": 0,
           "bariloche": 0
@@ -29122,7 +29001,7 @@
           "bariloche": 0
         }
       ],
-      "total": 32
+      "total": 31
     }
   },
   {
@@ -29735,7 +29614,7 @@
     "discount": 0.4,
     "image": "assets/82840BLK.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 10,
       "local": 26,
       "rio": 0,
       "bariloche": 0,
@@ -29756,7 +29635,7 @@
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 1,
           "local": 8,
           "rio": 0,
           "bariloche": 0
@@ -29776,7 +29655,7 @@
           "bariloche": 0
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -29789,7 +29668,7 @@
     "discount": 0.4,
     "image": "assets/82910ENLB.jpg",
     "stock": {
-      "carrito": 5,
+      "carrito": 4,
       "local": 19,
       "rio": 0,
       "bariloche": 0,
@@ -29824,13 +29703,13 @@
         },
         {
           "size": "8",
-          "carrito": 2,
+          "carrito": 1,
           "local": 2,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 24
+      "total": 23
     }
   },
   {
@@ -29843,7 +29722,7 @@
     "discount": 0.4,
     "image": "assets/83072DKAS.jpg",
     "stock": {
-      "carrito": 34,
+      "carrito": 32,
       "local": 11,
       "rio": 0,
       "bariloche": 0,
@@ -29864,14 +29743,14 @@
         },
         {
           "size": "34",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "35",
-          "carrito": 2,
+          "carrito": 1,
           "local": 1,
           "rio": 0,
           "bariloche": 0
@@ -29898,7 +29777,7 @@
           "bariloche": 0
         }
       ],
-      "total": 45
+      "total": 43
     }
   },
   {
@@ -30020,7 +29899,7 @@
     "image": "assets/83083CIFG.jpg",
     "stock": {
       "carrito": 14,
-      "local": 12,
+      "local": 11,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -30048,7 +29927,7 @@
         {
           "size": "36",
           "carrito": 5,
-          "local": 6,
+          "local": 5,
           "rio": 0,
           "bariloche": 0
         },
@@ -30067,7 +29946,7 @@
           "bariloche": 0
         }
       ],
-      "total": 26
+      "total": 25
     }
   },
   {
@@ -30156,7 +30035,7 @@
     "image": "assets/83190NUVG.jpg",
     "stock": {
       "carrito": 7,
-      "local": 2,
+      "local": 1,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -30170,7 +30049,7 @@
         {
           "size": "4",
           "carrito": 2,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 0
         },
@@ -30189,7 +30068,7 @@
           "bariloche": 0
         }
       ],
-      "total": 9
+      "total": 8
     }
   },
   {
@@ -30364,35 +30243,28 @@
     "discount": 0.4,
     "image": "assets/83578BLK.jpg",
     "stock": {
-      "carrito": 10,
-      "local": 13,
+      "carrito": 7,
+      "local": 12,
       "rio": 0,
       "bariloche": 3,
       "sizes": [
         {
           "size": "L",
-          "carrito": 0,
-          "local": 2,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
-          "size": "M",
-          "carrito": 2,
-          "local": 0,
+          "carrito": 1,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 3
         },
         {
           "size": "XL",
-          "carrito": 3,
+          "carrito": 2,
           "local": 7,
           "rio": 0,
           "bariloche": 0
@@ -30405,7 +30277,7 @@
           "bariloche": 0
         }
       ],
-      "total": 26
+      "total": 22
     }
   },
   {
@@ -30419,7 +30291,7 @@
     "image": "assets/83578PFGD.jpg",
     "stock": {
       "carrito": 6,
-      "local": 6,
+      "local": 5,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -30433,7 +30305,7 @@
         {
           "size": "XL",
           "carrito": 2,
-          "local": 4,
+          "local": 3,
           "rio": 0,
           "bariloche": 0
         },
@@ -30445,7 +30317,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -30461,7 +30333,7 @@
       "carrito": 8,
       "local": 11,
       "rio": 0,
-      "bariloche": 7,
+      "bariloche": 6,
       "sizes": [
         {
           "size": "L",
@@ -30489,7 +30361,7 @@
           "carrito": 1,
           "local": 4,
           "rio": 0,
-          "bariloche": 2
+          "bariloche": 1
         },
         {
           "size": "XXL",
@@ -30499,7 +30371,7 @@
           "bariloche": 1
         }
       ],
-      "total": 26
+      "total": 25
     }
   },
   {
@@ -30513,17 +30385,10 @@
     "image": "assets/83578TIDB.jpg",
     "stock": {
       "carrito": 7,
-      "local": 11,
+      "local": 9,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "L",
-          "carrito": 0,
-          "local": 2,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "S",
           "carrito": 0,
@@ -30546,7 +30411,7 @@
           "bariloche": 0
         }
       ],
-      "total": 18
+      "total": 16
     }
   },
   {
@@ -30792,27 +30657,27 @@
     "discount": 0.4,
     "image": "assets/84066PNGR.jpg",
     "stock": {
-      "carrito": 5,
-      "local": 5,
+      "carrito": 7,
+      "local": 4,
       "rio": 1,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
           "carrito": 3,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 4,
           "local": 3,
           "rio": 1,
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 12
     }
   },
   {
@@ -30873,14 +30738,14 @@
         {
           "size": "XL",
           "carrito": 1,
-          "local": 1,
+          "local": 0,
           "rio": 0,
           "bariloche": 0
         },
         {
           "size": "XXL",
           "carrito": 3,
-          "local": 0,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         }
@@ -31189,7 +31054,7 @@
     "discount": 0.5,
     "image": "assets/84217BUGR.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 18,
       "local": 22,
       "rio": 3,
       "bariloche": 0,
@@ -31203,14 +31068,14 @@
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 4,
           "local": 3,
           "rio": 1,
           "bariloche": 0
         },
         {
           "size": "S",
-          "carrito": 6,
+          "carrito": 5,
           "local": 5,
           "rio": 1,
           "bariloche": 0
@@ -31230,7 +31095,7 @@
           "bariloche": 0
         }
       ],
-      "total": 42
+      "total": 43
     }
   },
   {
@@ -31270,7 +31135,7 @@
     "image": "assets/84217CNY.jpg",
     "stock": {
       "carrito": 22,
-      "local": 0,
+      "local": 1,
       "rio": 2,
       "bariloche": 0,
       "sizes": [
@@ -31284,7 +31149,7 @@
         {
           "size": "XL",
           "carrito": 9,
-          "local": 0,
+          "local": 1,
           "rio": 2,
           "bariloche": 0
         },
@@ -31296,7 +31161,7 @@
           "bariloche": 0
         }
       ],
-      "total": 24
+      "total": 25
     }
   },
   {
@@ -31356,7 +31221,7 @@
     "discount": 0.5,
     "image": "assets/84217OBPL.jpg",
     "stock": {
-      "carrito": 76,
+      "carrito": 75,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -31377,7 +31242,7 @@
         },
         {
           "size": "S",
-          "carrito": 24,
+          "carrito": 23,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -31397,7 +31262,7 @@
           "bariloche": 0
         }
       ],
-      "total": 76
+      "total": 75
     }
   },
   {
@@ -31410,14 +31275,14 @@
     "discount": 0.5,
     "image": "assets/84217PNGR.jpg",
     "stock": {
-      "carrito": 16,
+      "carrito": 15,
       "local": 18,
       "rio": 1,
       "bariloche": 15,
       "sizes": [
         {
           "size": "L",
-          "carrito": 4,
+          "carrito": 3,
           "local": 4,
           "rio": 0,
           "bariloche": 4
@@ -31451,7 +31316,7 @@
           "bariloche": 0
         }
       ],
-      "total": 50
+      "total": 49
     }
   },
   {
@@ -31464,7 +31329,7 @@
     "discount": 0.5,
     "image": "assets/84217RHP.jpg",
     "stock": {
-      "carrito": 20,
+      "carrito": 19,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -31485,7 +31350,7 @@
         },
         {
           "size": "S",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -31498,7 +31363,7 @@
           "bariloche": 0
         }
       ],
-      "total": 20
+      "total": 19
     }
   },
   {
@@ -31796,20 +31661,20 @@
     "discount": 0.5,
     "image": "assets/84242BLK.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
-          "carrito": 9,
+          "carrito": 8,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 9
+      "total": 8
     }
   },
   {
@@ -31822,20 +31687,20 @@
     "discount": 0.5,
     "image": "assets/84242FGE.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 2,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
-          "carrito": 4,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
         }
       ],
-      "total": 4
+      "total": 2
     }
   },
   {
@@ -31849,14 +31714,14 @@
     "image": "assets/84242TPGN.jpg",
     "stock": {
       "carrito": 1,
-      "local": 15,
+      "local": 14,
       "rio": 0,
       "bariloche": 3,
       "sizes": [
         {
           "size": "L",
           "carrito": 0,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -31889,7 +31754,7 @@
           "bariloche": 2
         }
       ],
-      "total": 19
+      "total": 18
     }
   },
   {
@@ -32112,7 +31977,7 @@
     "discount": 0.5,
     "image": "assets/84268BLK.jpg",
     "stock": {
-      "carrito": 34,
+      "carrito": 33,
       "local": 17,
       "rio": 0,
       "bariloche": 7,
@@ -32133,7 +31998,7 @@
         },
         {
           "size": "S",
-          "carrito": 9,
+          "carrito": 8,
           "local": 4,
           "rio": 0,
           "bariloche": 1
@@ -32153,7 +32018,7 @@
           "bariloche": 0
         }
       ],
-      "total": 58
+      "total": 57
     }
   },
   {
@@ -32214,7 +32079,7 @@
     "image": "assets/84268PNGR.jpg",
     "stock": {
       "carrito": 14,
-      "local": 7,
+      "local": 6,
       "rio": 0,
       "bariloche": 7,
       "sizes": [
@@ -32235,7 +32100,7 @@
         {
           "size": "S",
           "carrito": 5,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 1
         },
@@ -32254,7 +32119,7 @@
           "bariloche": 0
         }
       ],
-      "total": 28
+      "total": 27
     }
   },
   {
@@ -32267,18 +32132,11 @@
     "discount": 0.5,
     "image": "assets/84346BLK.jpg",
     "stock": {
-      "carrito": 4,
+      "carrito": 3,
       "local": 6,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "M",
-          "carrito": 1,
-          "local": 0,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "XL",
           "carrito": 0,
@@ -32294,7 +32152,7 @@
           "bariloche": 0
         }
       ],
-      "total": 10
+      "total": 9
     }
   },
   {
@@ -32308,17 +32166,10 @@
     "image": "assets/84346NUVG.jpg",
     "stock": {
       "carrito": 7,
-      "local": 10,
+      "local": 9,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
-        {
-          "size": "L",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
         {
           "size": "S",
           "carrito": 0,
@@ -32341,7 +32192,7 @@
           "bariloche": 0
         }
       ],
-      "total": 17
+      "total": 16
     }
   },
   {
@@ -32354,11 +32205,18 @@
     "discount": 0.5,
     "image": "assets/84366BLK.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 12,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
+        {
+          "size": "XL",
+          "carrito": 1,
+          "local": 0,
+          "rio": 0,
+          "bariloche": 0
+        },
         {
           "size": "XXL",
           "carrito": 11,
@@ -32367,7 +32225,7 @@
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 12
     }
   },
   {
@@ -32447,7 +32305,7 @@
     "image": "assets/84426BLK.jpg",
     "stock": {
       "carrito": 23,
-      "local": 22,
+      "local": 20,
       "rio": 0,
       "bariloche": 11,
       "sizes": [
@@ -32468,7 +32326,7 @@
         {
           "size": "S",
           "carrito": 6,
-          "local": 5,
+          "local": 4,
           "rio": 0,
           "bariloche": 2
         },
@@ -32482,12 +32340,12 @@
         {
           "size": "XS",
           "carrito": 3,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 2
         }
       ],
-      "total": 56
+      "total": 54
     }
   },
   {
@@ -32627,9 +32485,9 @@
     "discount": 0.4,
     "image": "assets/84623GTRN.jpg",
     "stock": {
-      "carrito": 25,
+      "carrito": 24,
       "local": 31,
-      "rio": 7,
+      "rio": 6,
       "bariloche": 0,
       "sizes": [
         {
@@ -32641,9 +32499,9 @@
         },
         {
           "size": "M",
-          "carrito": 7,
+          "carrito": 6,
           "local": 10,
-          "rio": 2,
+          "rio": 1,
           "bariloche": 0
         },
         {
@@ -32668,7 +32526,7 @@
           "bariloche": 0
         }
       ],
-      "total": 63
+      "total": 61
     }
   },
   {
@@ -32694,13 +32552,6 @@
           "bariloche": 0
         },
         {
-          "size": "M",
-          "carrito": 0,
-          "local": 1,
-          "rio": 0,
-          "bariloche": 0
-        },
-        {
           "size": "S",
           "carrito": 4,
           "local": 5,
@@ -32717,7 +32568,7 @@
         {
           "size": "XXL",
           "carrito": 3,
-          "local": 3,
+          "local": 4,
           "rio": 0,
           "bariloche": 0
         }
@@ -32940,7 +32791,7 @@
       "carrito": 16,
       "local": 16,
       "rio": 0,
-      "bariloche": 12,
+      "bariloche": 11,
       "sizes": [
         {
           "size": "L",
@@ -32968,7 +32819,7 @@
           "carrito": 2,
           "local": 2,
           "rio": 0,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "XS",
@@ -32978,7 +32829,7 @@
           "bariloche": 3
         }
       ],
-      "total": 44
+      "total": 43
     }
   },
   {
@@ -33024,15 +32875,15 @@
     "discount": 0.4,
     "image": "assets/84675FGE.jpg",
     "stock": {
-      "carrito": 12,
-      "local": 18,
+      "carrito": 14,
+      "local": 17,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "M",
           "carrito": 0,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -33045,7 +32896,7 @@
         },
         {
           "size": "XL",
-          "carrito": 2,
+          "carrito": 4,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -33058,7 +32909,7 @@
           "bariloche": 0
         }
       ],
-      "total": 30
+      "total": 31
     }
   },
   {
@@ -33199,7 +33050,7 @@
     "image": "assets/84684NENA.jpg",
     "stock": {
       "carrito": 12,
-      "local": 12,
+      "local": 11,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -33220,7 +33071,7 @@
         {
           "size": "XL",
           "carrito": 3,
-          "local": 3,
+          "local": 2,
           "rio": 0,
           "bariloche": 0
         },
@@ -33232,7 +33083,7 @@
           "bariloche": 0
         }
       ],
-      "total": 24
+      "total": 23
     }
   },
   {
@@ -33349,7 +33200,7 @@
       "carrito": 28,
       "local": 18,
       "rio": 3,
-      "bariloche": 15,
+      "bariloche": 14,
       "sizes": [
         {
           "size": "L",
@@ -33370,7 +33221,7 @@
           "carrito": 8,
           "local": 5,
           "rio": 1,
-          "bariloche": 3
+          "bariloche": 2
         },
         {
           "size": "XL",
@@ -33387,7 +33238,7 @@
           "bariloche": 2
         }
       ],
-      "total": 64
+      "total": 63
     }
   },
   {
@@ -33400,7 +33251,7 @@
     "discount": 0.4,
     "image": "assets/84684SNDB.jpg",
     "stock": {
-      "carrito": 28,
+      "carrito": 27,
       "local": 0,
       "rio": 2,
       "bariloche": 0,
@@ -33435,13 +33286,13 @@
         },
         {
           "size": "XS",
-          "carrito": 7,
+          "carrito": 6,
           "local": 0,
           "rio": 1,
           "bariloche": 0
         }
       ],
-      "total": 30
+      "total": 29
     }
   },
   {
@@ -33919,7 +33770,7 @@
     "image": "assets/85140PFGD.jpg",
     "stock": {
       "carrito": 25,
-      "local": 4,
+      "local": 3,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
@@ -33947,7 +33798,7 @@
         {
           "size": "XL",
           "carrito": 4,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 0
         },
@@ -33959,7 +33810,7 @@
           "bariloche": 0
         }
       ],
-      "total": 29
+      "total": 28
     }
   },
   {
@@ -34012,7 +33863,7 @@
     "discount": 0.3,
     "image": "assets/85160SINY.jpg",
     "stock": {
-      "carrito": 17,
+      "carrito": 16,
       "local": 6,
       "rio": 0,
       "bariloche": 0,
@@ -34026,7 +33877,7 @@
         },
         {
           "size": "M",
-          "carrito": 6,
+          "carrito": 5,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -34053,7 +33904,7 @@
           "bariloche": 0
         }
       ],
-      "total": 23
+      "total": 22
     }
   },
   {
@@ -34120,9 +33971,9 @@
     "discount": 0.3,
     "image": "assets/85241STLE.jpg",
     "stock": {
-      "carrito": 31,
+      "carrito": 30,
       "local": 17,
-      "rio": 5,
+      "rio": 4,
       "bariloche": 0,
       "sizes": [
         {
@@ -34134,9 +33985,9 @@
         },
         {
           "size": "M",
-          "carrito": 8,
+          "carrito": 7,
           "local": 6,
-          "rio": 2,
+          "rio": 1,
           "bariloche": 0
         },
         {
@@ -34161,7 +34012,7 @@
           "bariloche": 0
         }
       ],
-      "total": 53
+      "total": 51
     }
   },
   {
@@ -34174,7 +34025,7 @@
     "discount": 0.3,
     "image": "assets/85241WAX.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 8,
       "local": 4,
       "rio": 0,
       "bariloche": 0,
@@ -34194,7 +34045,7 @@
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 12
     }
   },
   {
@@ -34247,7 +34098,7 @@
     "discount": 0.3,
     "image": "assets/85246OXDR.jpg",
     "stock": {
-      "carrito": 8,
+      "carrito": 5,
       "local": 5,
       "rio": 0,
       "bariloche": 6,
@@ -34268,20 +34119,20 @@
         },
         {
           "size": "S",
-          "carrito": 5,
+          "carrito": 3,
           "local": 3,
           "rio": 0,
           "bariloche": 1
         },
         {
           "size": "XS",
-          "carrito": 3,
+          "carrito": 2,
           "local": 1,
           "rio": 0,
           "bariloche": 1
         }
       ],
-      "total": 19
+      "total": 16
     }
   },
   {
@@ -34294,14 +34145,14 @@
     "discount": 0.3,
     "image": "assets/85246PIMR.jpg",
     "stock": {
-      "carrito": 12,
+      "carrito": 11,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "S",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -34321,7 +34172,7 @@
           "bariloche": 0
         }
       ],
-      "total": 12
+      "total": 11
     }
   },
   {
@@ -34499,7 +34350,7 @@
     "discount": 0.4,
     "image": "assets/85300OBPL.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 14,
       "rio": 0,
       "bariloche": 0,
@@ -34513,7 +34364,7 @@
         },
         {
           "size": "M",
-          "carrito": 2,
+          "carrito": 1,
           "local": 6,
           "rio": 0,
           "bariloche": 0
@@ -34540,7 +34391,7 @@
           "bariloche": 0
         }
       ],
-      "total": 23
+      "total": 22
     }
   },
   {
@@ -34865,7 +34716,7 @@
     "discount": 0.3,
     "image": "assets/85500BLK.jpg",
     "stock": {
-      "carrito": 14,
+      "carrito": 13,
       "local": 14,
       "rio": 3,
       "bariloche": 14,
@@ -34900,13 +34751,13 @@
         },
         {
           "size": "XXL",
-          "carrito": 2,
+          "carrito": 1,
           "local": 4,
           "rio": 0,
           "bariloche": 3
         }
       ],
-      "total": 45
+      "total": 44
     }
   },
   {
@@ -34967,7 +34818,7 @@
     "image": "assets/85505BLK.jpg",
     "stock": {
       "carrito": 10,
-      "local": 14,
+      "local": 13,
       "rio": 1,
       "bariloche": 12,
       "sizes": [
@@ -34988,7 +34839,7 @@
         {
           "size": "S",
           "carrito": 3,
-          "local": 5,
+          "local": 4,
           "rio": 0,
           "bariloche": 4
         },
@@ -35007,7 +34858,7 @@
           "bariloche": 1
         }
       ],
-      "total": 37
+      "total": 36
     }
   },
   {
@@ -35067,7 +34918,7 @@
     "discount": 0.4,
     "image": "assets/85540BLK.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 6,
       "local": 6,
       "rio": 0,
       "bariloche": 0,
@@ -35081,7 +34932,7 @@
         },
         {
           "size": "XL",
-          "carrito": 3,
+          "carrito": 2,
           "local": 3,
           "rio": 0,
           "bariloche": 0
@@ -35094,7 +34945,7 @@
           "bariloche": 0
         }
       ],
-      "total": 13
+      "total": 12
     }
   },
   {
@@ -35133,15 +34984,15 @@
     "discount": 0.4,
     "image": "assets/85540LMBE.jpg",
     "stock": {
-      "carrito": 18,
-      "local": 18,
+      "carrito": 19,
+      "local": 17,
       "rio": 4,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
           "carrito": 6,
-          "local": 5,
+          "local": 4,
           "rio": 2,
           "bariloche": 0
         },
@@ -35161,7 +35012,7 @@
         },
         {
           "size": "XL",
-          "carrito": 3,
+          "carrito": 4,
           "local": 4,
           "rio": 1,
           "bariloche": 0
@@ -35401,7 +35252,7 @@
     "discount": 0.4,
     "image": "assets/85555FLBL.jpg",
     "stock": {
-      "carrito": 11,
+      "carrito": 10,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -35422,7 +35273,7 @@
         },
         {
           "size": "S",
-          "carrito": 5,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -35435,7 +35286,7 @@
           "bariloche": 0
         }
       ],
-      "total": 11
+      "total": 10
     }
   },
   {
@@ -35449,7 +35300,7 @@
     "image": "assets/85600BLK.jpg",
     "stock": {
       "carrito": 19,
-      "local": 21,
+      "local": 20,
       "rio": 2,
       "bariloche": 17,
       "sizes": [
@@ -35470,7 +35321,7 @@
         {
           "size": "S",
           "carrito": 4,
-          "local": 2,
+          "local": 1,
           "rio": 0,
           "bariloche": 4
         },
@@ -35496,7 +35347,7 @@
           "bariloche": 3
         }
       ],
-      "total": 59
+      "total": 58
     }
   },
   {
@@ -36101,7 +35952,7 @@
     "discount": 0.4,
     "image": "assets/86141WHI.jpg",
     "stock": {
-      "carrito": 20,
+      "carrito": 19,
       "local": 1,
       "rio": 0,
       "bariloche": 0,
@@ -36115,7 +35966,7 @@
         },
         {
           "size": "M",
-          "carrito": 8,
+          "carrito": 7,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -36128,7 +35979,7 @@
           "bariloche": 0
         }
       ],
-      "total": 21
+      "total": 20
     }
   },
   {
@@ -36254,14 +36105,14 @@
     "discount": 0.3,
     "image": "assets/86435ENLB.jpg",
     "stock": {
-      "carrito": 9,
+      "carrito": 8,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "L",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -36281,7 +36132,7 @@
           "bariloche": 0
         }
       ],
-      "total": 9
+      "total": 8
     }
   },
   {
@@ -36388,14 +36239,14 @@
     "discount": 0.3,
     "image": "assets/86475PLGY.jpg",
     "stock": {
-      "carrito": 16,
+      "carrito": 17,
       "local": 1,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "30",
-          "carrito": 2,
+          "carrito": 1,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -36409,7 +36260,7 @@
         },
         {
           "size": "36",
-          "carrito": 2,
+          "carrito": 4,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -36429,7 +36280,7 @@
           "bariloche": 0
         }
       ],
-      "total": 17
+      "total": 18
     }
   },
   {
@@ -36442,7 +36293,7 @@
     "discount": 0.3,
     "image": "assets/86475TIDB.jpg",
     "stock": {
-      "carrito": 20,
+      "carrito": 19,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
@@ -36470,7 +36321,7 @@
         },
         {
           "size": "38",
-          "carrito": 4,
+          "carrito": 3,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -36483,7 +36334,7 @@
           "bariloche": 0
         }
       ],
-      "total": 20
+      "total": 19
     }
   },
   {
@@ -36597,14 +36448,14 @@
     "discount": 0.3,
     "image": "assets/86775TIDB.jpg",
     "stock": {
-      "carrito": 7,
+      "carrito": 6,
       "local": 0,
       "rio": 0,
       "bariloche": 0,
       "sizes": [
         {
           "size": "30",
-          "carrito": 3,
+          "carrito": 2,
           "local": 0,
           "rio": 0,
           "bariloche": 0
@@ -36624,7 +36475,7 @@
           "bariloche": 0
         }
       ],
-      "total": 7
+      "total": 6
     }
   }
 ]
